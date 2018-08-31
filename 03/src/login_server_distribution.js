@@ -25,7 +25,7 @@ $.getJSON("src/login_server_distribution.json", function(json) {
         },
         yAxis: {
             type: 'value',
-            name: 'Requests'
+            name: 'Records'
         },
         series : [
             {
