@@ -4,44 +4,36 @@ var chart = echarts.init(dom);
 chart.showLoading();
 
 
-$.getJSON("src/login_server_distribution", function(json) {
+$.getJSON("src/login_server_distribution.json", function(json) {
     chart.hideLoading();
 
     chart.setOption(option = {
         title : {
-            text: 'IP usage ratio',
+            text: 'Login server distribution',
             x:'center'
         },
         tooltip : {
             trigger: 'item',
-            formatter: "{a} <br/>{b} : {c} ({d}%)"
+            formatter: "{a} <br/>{b} : {c}"
         },
-        legend: {
-            orient: 'vertical',
-            left: 'left',
+        xAxis: {
+            type: 'category',
+            name: 'Server address',
             data: json.map(function (element) {
-                return {
-                    name: element.Protocol
-                };
+                return element.Server;
             })
+        },
+        yAxis: {
+            type: 'value',
+            name: 'Requests'
         },
         series : [
             {
-                name: 'IP usage ratio',
-                type: 'pie',
-                radius : '55%',
-                center: ['50%', '40%'],
+                type: 'bar',
+                name: 'Login server distribution',
                 data: json.map(function (element) {
-                    return {
-                        name: element.Protocol,
-                        value: element.Usage
-                    };
-                }),
-                label: {
-                    normal: {
-                        formatter: '{b}\n{d}%'
-                    }
-                }
+                    return element.Count;
+                })
             }
         ]
     }, true);
