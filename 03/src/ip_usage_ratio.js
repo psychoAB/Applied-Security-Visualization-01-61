@@ -34,7 +34,7 @@ $.getJSON("src/ip_usage_ratio.json", function(json) {
                 data: json.map(function (element) {
                     return {
                         name: element.Protocol,
-                        value: element.Usage
+                        value: element.Count
                     };
                 }),
                 label: {

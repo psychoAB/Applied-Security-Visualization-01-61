@@ -1,1 +1,1 @@
-[{"Activity":"login-page 3574","Count":""},{"Activity":"logout-page 22","Count":""},{"Activity":"RE_LOGIN 229","Count":""},{"Activity":"TIMEOUT 3312","Count":""}]
+[{"Activity":"login-page","Count":3574},{"Activity":"logout-page","Count":22},{"Activity":"RE_LOGIN","Count":229},{"Activity":"TIMEOUT","Count":3312}]

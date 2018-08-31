@@ -1,1 +1,1 @@
-[{"Protocol":"IPv4","Usage":4000},{"Protocol":"IPv6","Usage":10},{"Protocol":"Dual","Usage":3127}]
+[{"Protocol":"IPv4","Count":4000},{"Protocol":"IPv6","Count":10},{"Protocol":"Dual","Count":3127}]
