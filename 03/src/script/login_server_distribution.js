@@ -4,7 +4,7 @@ var chart = echarts.init(dom);
 chart.showLoading();
 
 
-$.getJSON("src/login_server_distribution.json", function(json) {
+$.getJSON("src/json/login_server_distribution.json", function(json) {
     chart.hideLoading();
 
     chart.setOption(option = {
