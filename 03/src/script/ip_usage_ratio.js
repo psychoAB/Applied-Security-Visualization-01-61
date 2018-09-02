@@ -1,6 +1,5 @@
 var dom = document.getElementById("graph");
 var chart = echarts.init(dom);
-var colors = ['#FFA726', '#FB8C00', '#EF6C00'];
 
 chart.showLoading();
 
@@ -12,16 +11,12 @@ $.getJSON("src/json/ip_usage_ratio.json", function(json) {
             text: 'IP usage ratio',
             x: 'center'
         },
-        tooltip: {
-            trigger: 'item',
-            formatter: "{a} <br/>{b} : {c} ({d}%)"
-        },
         legend: {
             orient: 'vertical',
             left: 'left',
             data: json.map(function(record) {
                 return {
-                    name: record.Protocol
+                    name: record.protocol
                 };
             })
         },
@@ -31,24 +26,38 @@ $.getJSON("src/json/ip_usage_ratio.json", function(json) {
                 type: 'pie',
                 radius : '55%',
                 center: ['50%', '40%'],
-                data: (json.map(function(record) {
+                data: json.map(function(record) {
                     return {
-                        name: record.Protocol,
-                        value: record.Count
-                    };
-                })).map(function(item) {
-                    return {
-                        name : item.name,
-                        value : item.value,
+                        name: record.protocol,
+                        value: record.count,
                         itemStyle : {
-                            color : colors.pop()
+                            color : record.color
                         }
                     };
                 }),
                 label: {
-                    normal: {
-                        formatter: '{b}\n{d}%'
-                    }
+                    formatter: '{b}\n{d}%'
+                }
+            },
+            {
+                type: 'pie',
+                radius : '55%',
+                center: ['50%', '40%'],
+                data: json.map(function(record) {
+                    return {
+                        name: record.protocol,
+                        value: record.count,
+                        itemStyle : {
+                            color : record.color
+                        }
+                    };
+                }),
+                label: {
+                    position: 'inside',
+                    formatter: '{c}'
+                },
+                itemStyle : {
+                    opacity : 0
                 }
             }
         ]
