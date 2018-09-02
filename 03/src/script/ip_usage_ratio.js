@@ -1,5 +1,6 @@
 var dom = document.getElementById("graph");
 var chart = echarts.init(dom);
+var colors = ['#FFA726', '#FB8C00', '#EF6C00'];
 
 chart.showLoading();
 
@@ -18,9 +19,9 @@ $.getJSON("src/json/ip_usage_ratio.json", function(json) {
         legend: {
             orient: 'vertical',
             left: 'left',
-            data: json.map(function(element) {
+            data: json.map(function(record) {
                 return {
-                    name: element.Protocol
+                    name: record.Protocol
                 };
             })
         },
@@ -30,10 +31,18 @@ $.getJSON("src/json/ip_usage_ratio.json", function(json) {
                 type: 'pie',
                 radius : '55%',
                 center: ['50%', '40%'],
-                data: json.map(function(element) {
+                data: (json.map(function(record) {
                     return {
-                        name: element.Protocol,
-                        value: element.Count
+                        name: record.Protocol,
+                        value: record.Count
+                    };
+                })).map(function(item) {
+                    return {
+                        name : item.name,
+                        value : item.value,
+                        itemStyle : {
+                            color : colors.pop()
+                        }
                     };
                 }),
                 label: {
