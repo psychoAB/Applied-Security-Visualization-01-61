@@ -2,16 +2,16 @@
     {
         "protocol": "IPV4",
         "count": 4000,
-        "color": "#EF6C00"
+        "color": "#FF6D00"
     },
     {
         "protocol": "IPV6",
         "count": 10,
-        "color": "#F57C00"
+        "color": "#FF9100"
     },
     {
         "protocol": "Dual",
         "count": 3127,
-        "color": "#FB8C00"
+        "color": "#FFAB40"
     }
 ]

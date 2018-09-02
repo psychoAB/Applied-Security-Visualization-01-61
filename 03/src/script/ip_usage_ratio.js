@@ -22,24 +22,6 @@ $.getJSON("src/json/ip_usage_ratio.json", function(json) {
         },
         series: [
             {
-                name: 'IP usage ratio',
-                type: 'pie',
-                radius : '55%',
-                center: ['50%', '40%'],
-                data: json.map(function(record) {
-                    return {
-                        name: record.protocol,
-                        value: record.count,
-                        itemStyle : {
-                            color : record.color
-                        }
-                    };
-                }),
-                label: {
-                    formatter: '{b}\n{d}%'
-                }
-            },
-            {
                 type: 'pie',
                 radius : '55%',
                 center: ['50%', '40%'],
@@ -58,6 +40,31 @@ $.getJSON("src/json/ip_usage_ratio.json", function(json) {
                 },
                 itemStyle : {
                     opacity : 0
+                }
+            },
+            {
+                name: 'IP usage ratio',
+                type: 'pie',
+                radius : '55%',
+                center: ['50%', '40%'],
+                data: json.map(function(record) {
+                    return {
+                        name: record.protocol,
+                        value: record.count,
+                        itemStyle : {
+                            color : record.color
+                        }
+                    };
+                }),
+                label: {
+                    formatter: '{b}\n{d}%'
+                },
+                itemStyle: {
+                    emphasis: {
+                        shadowBlur: 10,
+                        shadowOffsetX: 0,
+                        shadowColor: 'rgba(0, 0, 0, 0.3)'
+                    }
                 }
             }
         ]
