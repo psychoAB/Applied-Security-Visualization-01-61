@@ -57,7 +57,8 @@ $.getJSON("src/json/ip_usage_ratio.json", function(json) {
                     };
                 }),
                 label: {
-                    formatter: '{b}\n{d}%'
+                    formatter: '{b}\n{d}%',
+                    color: '#333333'
                 },
                 itemStyle: {
                     emphasis: {

@@ -57,9 +57,8 @@ $.getJSON("src/json/login_activity.json", function(json) {
                     };
                 }),
                 label: {
-                    normal: {
-                        formatter: '{b}\n{d}%'
-                    }
+                    formatter: '{b}\n{d}%',
+                    color: '#333333'
                 },
                 itemStyle: {
                     emphasis: {
