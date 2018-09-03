@@ -1,0 +1,17 @@
+[
+    {
+        "protocol": "IPV4",
+        "count": 4000,
+        "color": "#FF6F00"
+    },
+    {
+        "protocol": "Dual",
+        "count": 3127,
+        "color": "#FFA000"
+    },
+    {
+        "protocol": "IPV6",
+        "count": 10,
+        "color": "#FFC107"
+    }
+]

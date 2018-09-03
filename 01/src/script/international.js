@@ -3,7 +3,7 @@ var chart = echarts.init(dom);
 
 chart.showLoading();
 
-$.getJSON("src/domestic_data.json", function(json) {
+$.getJSON("src/json/international_data.json", function(json) {
     chart.hideLoading();
     
     chart.setOption(option = {

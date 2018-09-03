@@ -1,0 +1,22 @@
+[
+    {
+        "activity": "Login page",
+        "count": 3574,
+        "color": "#FF6F00"
+    },
+    {
+        "activity": "Timeout",
+        "count": 3312,
+        "color": "#FFA000"
+    },
+    {
+        "activity": "Re-login",
+        "count": 229,
+        "color": "#FFC107"
+    },
+    {
+        "activity": "Logout page",
+        "count": 22,
+        "color": "#FFD54F"
+    }
+]
