@@ -19,22 +19,31 @@ $.getJSON("src/json/login_server_distribution.json", function(json) {
         xAxis: {
             type: 'category',
             name: 'Server address',
-            data: json.map(function (element) {
-                return element.Server;
+            data: json.map(function (record) {
+                return record.server;
             })
         },
         yAxis: {
             type: 'value',
             name: 'Records'
         },
-        series : [
+        series: [
             {
                 type: 'bar',
                 name: 'Login server distribution',
-                data: json.map(function (element) {
-                    return element.Count;
+                barWidth: '66.67%',
+                label: {
+                    show: 'true',
+                    position: 'insideTop'
+                },
+                data: json.map(function (record) {
+                    return record.count;
                 })
             }
-        ]
+        ],
+        itemStyle: {
+            color: '#03A9F4'
+        }
+        
     }, true);
 });
