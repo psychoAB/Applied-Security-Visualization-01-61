@@ -32,10 +32,6 @@ $.getJSON("src/json/requests_per_minute.json", function(json) {
                 type: 'bar',
                 name: 'Requests per minute',
                 barWidth: '66.67%',
-                label: {
-                    show: 'true',
-                    position: 'insideTop'
-                },
                 data: json.map(function (record) {
                     return record.count;
                 })
