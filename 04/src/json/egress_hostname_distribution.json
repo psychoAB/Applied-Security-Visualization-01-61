@@ -149,502 +149,6 @@
   },
   {
     "count": 1,
-    "hostname": "158.108.101.2"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.101.21:5985"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.101.31:5985"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.101.33"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.101.3:8080"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.101.4"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.101.71:8080"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.102.12"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.102.14"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.104.17"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.104.3:8080"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.107.16:8080"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.110.103:8080"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.110.104"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.110.105"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.110.120"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.110.128"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.110.129"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.110.25"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.110.33"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.110.34"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.110.4"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.110.52"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.110.90"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.123.111:5357"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.123.27:8080"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.123.80:8080"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.14.135"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.180.214:8080"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.181.226:8080"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.181.232:8080"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.183.115:8080"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.192.91"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.194.143:8080"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.194.27:8080"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.194.28"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.194.36:8080"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.194.5"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.196.21"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.196.37"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.196.61"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.198.145:8080"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.200.18"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.201.219"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.20.3"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.205.3"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.206.37"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.206.37:8080"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.207.135"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.207.2"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.207.5:3389"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.212.180"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.215.134"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.215.138"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.215.153"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.216.5"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.217.16"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.219.124"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.219.150"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.219.171"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.219.172"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.219.174"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.219.179"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.219.20"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.219.32"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.219.38"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.219.6"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.219.69"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.219.88"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.220.17"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.220.19"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.220.30"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.220.31"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.220.61"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.220.66"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.24.200"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.25.11"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.25.13"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.26.48:5555"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.3.100"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.34.61"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.42.224:8080"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.4.227"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.4.241"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.4.246"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.44.242"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.50.16"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.5.111:8080"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.51.126"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.52.244"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.52.245"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.64.228"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.68.26"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.69.23"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.76.199"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.79.166:5555"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.80.106"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.80.12"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.80.190"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.80.23"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.80.25"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.80.27"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.80.32:8080"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.80.34"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.80.36"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.80.36:8080"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.80.37"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.80.6:8080"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.80.8"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.80.94"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.80.94:8080"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.81.16"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.81.72"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.82.59"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.89.200"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.95.18"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.96.11"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.96.14"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.96.39"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.97.10"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.97.76"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.97.8"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.99.23"
-  },
-  {
-    "count": 1,
-    "hostname": "158.108.99.27"
-  },
-  {
-    "count": 1,
     "hostname": "15.basebanner.com"
   },
   {
@@ -1181,10 +685,6 @@
   },
   {
     "count": 1,
-    "hostname": "academic.human.ku.ac.th"
-  },
-  {
-    "count": 1,
     "hostname": "access.line.me"
   },
   {
@@ -1198,10 +698,6 @@
   {
     "count": 1,
     "hostname": "accounts.google.co.th"
-  },
-  {
-    "count": 1,
-    "hostname": "accounts.ku.ac.th"
   },
   {
     "count": 1,
@@ -1282,10 +778,6 @@
   {
     "count": 1,
     "hostname": "admin.appnext.com"
-  },
-  {
-    "count": 1,
-    "hostname": "adm.ocs.ku.ac.th"
   },
   {
     "count": 1,
@@ -1401,10 +893,6 @@
   },
   {
     "count": 1,
-    "hostname": "advanse.bus.ku.ac.th"
-  },
-  {
-    "count": 1,
     "hostname": "advert-serv.johnmorris.me"
   },
   {
@@ -1442,10 +930,6 @@
   {
     "count": 1,
     "hostname": "agent.aralego.com"
-  },
-  {
-    "count": 1,
-    "hostname": "agro.ku.ac.th"
   },
   {
     "count": 1,
@@ -1857,10 +1341,6 @@
   },
   {
     "count": 1,
-    "hostname": "apps.coop.ku.ac.th"
-  },
-  {
-    "count": 1,
     "hostname": "appscreens.connectify.me"
   },
   {
@@ -1901,15 +1381,7 @@
   },
   {
     "count": 1,
-    "hostname": "apsap.kasetsart.org"
-  },
-  {
-    "count": 1,
     "hostname": "aps.oversea.amap.com"
-  },
-  {
-    "count": 1,
-    "hostname": "arc.csc.ku.ac.th"
   },
   {
     "count": 1,
@@ -1950,10 +1422,6 @@
   {
     "count": 1,
     "hostname": "array301-prod.do.dsp.mp.microsoft.com"
-  },
-  {
-    "count": 1,
-    "hostname": "arts.flas.kps.ku.ac.th"
   },
   {
     "count": 1,
@@ -2010,10 +1478,6 @@
   {
     "count": 1,
     "hostname": "auth.linedict.naver.com"
-  },
-  {
-    "count": 1,
-    "hostname": "autonomy.ku.ac.th"
   },
   {
     "count": 1,
@@ -2285,10 +1749,6 @@
   },
   {
     "count": 1,
-    "hostname": "bsta.agr.ku.ac.th"
-  },
-  {
-    "count": 1,
     "hostname": "btlr.sharethrough.com"
   },
   {
@@ -2302,10 +1762,6 @@
   {
     "count": 1,
     "hostname": "bucklink.xtgem.com"
-  },
-  {
-    "count": 1,
-    "hostname": "buddhism.rilc.ku.ac.th"
   },
   {
     "count": 1,
@@ -2353,10 +1809,6 @@
   },
   {
     "count": 1,
-    "hostname": "cab.ku.ac.th"
-  },
-  {
-    "count": 1,
     "hostname": "cache2.asset-cache.net"
   },
   {
@@ -2370,10 +1822,6 @@
   {
     "count": 1,
     "hostname": "cache.send.microad.jp"
-  },
-  {
-    "count": 1,
-    "hostname": "cai.human.ku.ac.th"
   },
   {
     "count": 1,
@@ -2749,14 +2197,6 @@
   },
   {
     "count": 1,
-    "hostname": "cit.kps.ku.ac.th"
-  },
-  {
-    "count": 1,
-    "hostname": "civil.eng.kps.ku.ac.th"
-  },
-  {
-    "count": 1,
     "hostname": "cj.dotomi.com"
   },
   {
@@ -2925,10 +2365,6 @@
   },
   {
     "count": 1,
-    "hostname": "conference.forest.ku.ac.th"
-  },
-  {
-    "count": 1,
     "hostname": "config.ioam.de"
   },
   {
@@ -2962,10 +2398,6 @@
   {
     "count": 1,
     "hostname": "conntest.nintendowifi.net"
-  },
-  {
-    "count": 1,
-    "hostname": "construction.eng.ku.ac.th"
   },
   {
     "count": 1,
@@ -3021,23 +2453,11 @@
   },
   {
     "count": 1,
-    "hostname": "course.ku.ac.th:443"
-  },
-  {
-    "count": 1,
     "hostname": "coursera.test-app.link"
   },
   {
     "count": 1,
-    "hostname": "cpc.webhost.ku.ac.th"
-  },
-  {
-    "count": 1,
     "hostname": "crash.steampowered.com"
-  },
-  {
-    "count": 1,
-    "hostname": "cras.ms.src.ku.ac.th"
   },
   {
     "count": 1,
@@ -3361,10 +2781,6 @@
   },
   {
     "count": 1,
-    "hostname": "dev.recoftc.org:4082"
-  },
-  {
-    "count": 1,
     "hostname": "dev.virtualearth.net"
   },
   {
@@ -3374,10 +2790,6 @@
   {
     "count": 1,
     "hostname": "digibody.ff.avast.com"
-  },
-  {
-    "count": 1,
-    "hostname": "digitallib.vit.src.ku.ac.th"
   },
   {
     "count": 1,
@@ -3477,15 +2889,7 @@
   },
   {
     "count": 1,
-    "hostname": "doed.edu.ku.ac.th"
-  },
-  {
-    "count": 1,
     "hostname": "dogsbreeds.biz"
-  },
-  {
-    "count": 1,
-    "hostname": "doipui.aerdi.ku.ac.th"
   },
   {
     "count": 1,
@@ -3637,10 +3041,6 @@
   },
   {
     "count": 1,
-    "hostname": "ebaa.eco.ku.ac.th"
-  },
-  {
-    "count": 1,
     "hostname": "ebdr3.com"
   },
   {
@@ -3665,10 +3065,6 @@
   },
   {
     "count": 1,
-    "hostname": "ecourse.cpe.ku.ac.th"
-  },
-  {
-    "count": 1,
     "hostname": "ec.razerzone.com"
   },
   {
@@ -3682,26 +3078,6 @@
   {
     "count": 1,
     "hostname": "edge.simplereach.com"
-  },
-  {
-    "count": 1,
-    "hostname": "education.ms.src.ku.ac.th"
-  },
-  {
-    "count": 1,
-    "hostname": "eduinfo.ku.ac.th"
-  },
-  {
-    "count": 1,
-    "hostname": "eduroam.ku.ac.th"
-  },
-  {
-    "count": 1,
-    "hostname": "edus.soc.ku.ac.th"
-  },
-  {
-    "count": 1,
-    "hostname": "eeec.eng.ku.ac.th"
   },
   {
     "count": 1,
@@ -3741,10 +3117,6 @@
   },
   {
     "count": 1,
-    "hostname": "eng-fse.csc.ku.ac.th"
-  },
-  {
-    "count": 1,
     "hostname": "engine.adzerk.net"
   },
   {
@@ -3758,22 +3130,6 @@
   {
     "count": 1,
     "hostname": "en.hao123.com"
-  },
-  {
-    "count": 1,
-    "hostname": "ensp.human.ku.ac.th"
-  },
-  {
-    "count": 1,
-    "hostname": "eoffice.ku.ac.th:8443"
-  },
-  {
-    "count": 1,
-    "hostname": "eoffice.src.ku.ac.th"
-  },
-  {
-    "count": 1,
-    "hostname": "epidem.vet.kps.ku.ac.th"
   },
   {
     "count": 1,
@@ -3869,10 +3225,6 @@
   },
   {
     "count": 1,
-    "hostname": "faqs.grad.ku.ac.th"
-  },
-  {
-    "count": 1,
     "hostname": "farmheroesmobile.king.com"
   },
   {
@@ -3946,10 +3298,6 @@
   {
     "count": 1,
     "hostname": "feedback.adrecover.com"
-  },
-  {
-    "count": 1,
-    "hostname": "feedbase.fish.ku.ac.th"
   },
   {
     "count": 1,
@@ -4042,10 +3390,6 @@
   {
     "count": 1,
     "hostname": "freehostedscripts.net"
-  },
-  {
-    "count": 1,
-    "hostname": "fscieng.csc.ku.ac.th"
   },
   {
     "count": 1,
@@ -4225,10 +3569,6 @@
   },
   {
     "count": 1,
-    "hostname": "gifted.kus.ku.ac.th"
-  },
-  {
-    "count": 1,
     "hostname": "gjapplog.uc.cn"
   },
   {
@@ -4374,10 +3714,6 @@
   {
     "count": 1,
     "hostname": "hb.sekindo.com"
-  },
-  {
-    "count": 1,
-    "hostname": "hcrd.edu.kps.ku.ac.th"
   },
   {
     "count": 1,
@@ -4557,10 +3893,6 @@
   },
   {
     "count": 1,
-    "hostname": "hort.agr.ku.ac.th"
-  },
-  {
-    "count": 1,
     "hostname": "hotpot.360in.com"
   },
   {
@@ -4585,15 +3917,7 @@
   },
   {
     "count": 1,
-    "hostname": "hrpp.ku.ac.th"
-  },
-  {
-    "count": 1,
     "hostname": "hservices.truetv.tv"
-  },
-  {
-    "count": 1,
-    "hostname": "httpheader.net"
   },
   {
     "count": 1,
@@ -4729,10 +4053,6 @@
   },
   {
     "count": 1,
-    "hostname": "icdc.eto.ku.ac.th"
-  },
-  {
-    "count": 1,
     "hostname": "ichannel.snssdk.com"
   },
   {
@@ -4753,10 +4073,6 @@
   },
   {
     "count": 1,
-    "hostname": "ie.eng.kps.ku.ac.th"
-  },
-  {
-    "count": 1,
     "hostname": "igcdn-photos-h-a.akamaihd.net"
   },
   {
@@ -4766,10 +4082,6 @@
   {
     "count": 1,
     "hostname": "i.hentaifox.com"
-  },
-  {
-    "count": 1,
-    "hostname": "iicrd.ku.ac.th"
   },
   {
     "count": 1,
@@ -4842,10 +4154,6 @@
   {
     "count": 1,
     "hostname": "imap.163.com"
-  },
-  {
-    "count": 1,
-    "hostname": "imap.ku.ac.th"
   },
   {
     "count": 1,
@@ -5077,14 +4385,6 @@
   },
   {
     "count": 1,
-    "hostname": "impact.eng.ku.ac.th"
-  },
-  {
-    "count": 1,
-    "hostname": "impact-www.eng.ku.ac.th"
-  },
-  {
-    "count": 1,
     "hostname": "imp-mdsp.avazutracking.net"
   },
   {
@@ -5106,14 +4406,6 @@
   {
     "count": 1,
     "hostname": "inalen.com"
-  },
-  {
-    "count": 1,
-    "hostname": "indpsy.soc.ku.ac.th"
-  },
-  {
-    "count": 1,
-    "hostname": "inf.ocs.ku.ac.th"
   },
   {
     "count": 1,
@@ -5273,10 +4565,6 @@
   },
   {
     "count": 1,
-    "hostname": "jatropha.center.ku.ac.th"
-  },
-  {
-    "count": 1,
     "hostname": "javbank.com"
   },
   {
@@ -5349,14 +4637,6 @@
   },
   {
     "count": 1,
-    "hostname": "kasetsartjsocsci.kasetsart.org"
-  },
-  {
-    "count": 1,
-    "hostname": "kasetsart.org"
-  },
-  {
-    "count": 1,
     "hostname": "kdccs.deqwas.net"
   },
   {
@@ -5389,10 +4669,6 @@
   },
   {
     "count": 1,
-    "hostname": "kimba.ku.ac.th"
-  },
-  {
-    "count": 1,
     "hostname": "kimposts.com"
   },
   {
@@ -5402,22 +4678,6 @@
   {
     "count": 1,
     "hostname": "kmpcs.deqwas.net"
-  },
-  {
-    "count": 1,
-    "hostname": "kufirst.center.ku.ac.th"
-  },
-  {
-    "count": 1,
-    "hostname": "kufsp.center.ku.ac.th"
-  },
-  {
-    "count": 1,
-    "hostname": "ku-numthai.rdi.ku.ac.th"
-  },
-  {
-    "count": 1,
-    "hostname": "kuservice.ku.ac.th"
   },
   {
     "count": 1,
@@ -5461,10 +4721,6 @@
   },
   {
     "count": 1,
-    "hostname": "law.soc.ku.ac.th"
-  },
-  {
-    "count": 1,
     "hostname": "lazada.d3.sc.om"
   },
   {
@@ -5505,10 +4761,6 @@
   },
   {
     "count": 1,
-    "hostname": "lib.vit.src.ku.ac.th"
-  },
-  {
-    "count": 1,
     "hostname": "licensebuttons.net"
   },
   {
@@ -5525,10 +4777,6 @@
   },
   {
     "count": 1,
-    "hostname": "lit.human.ku.ac.th"
-  },
-  {
-    "count": 1,
     "hostname": "live.fo3vn.garenanow.com"
   },
   {
@@ -5538,10 +4786,6 @@
   {
     "count": 1,
     "hostname": "live.github.com"
-  },
-  {
-    "count": 1,
-    "hostname": "live.ku.th"
   },
   {
     "count": 1,
@@ -5558,10 +4802,6 @@
   {
     "count": 1,
     "hostname": "lm.licenses.adobe.com"
-  },
-  {
-    "count": 1,
-    "hostname": "lms.sci.src.ku.ac.th"
   },
   {
     "count": 1,
@@ -5741,19 +4981,7 @@
   },
   {
     "count": 1,
-    "hostname": "masp.bus.ku.ac.th"
-  },
-  {
-    "count": 1,
-    "hostname": "master-coop.eco.ku.ac.th"
-  },
-  {
-    "count": 1,
     "hostname": "max-headway.men"
-  },
-  {
-    "count": 1,
-    "hostname": "mba.csc.ku.ac.th"
   },
   {
     "count": 1,
@@ -6021,10 +5249,6 @@
   },
   {
     "count": 1,
-    "hostname": "mp.kus.ku.ac.th"
-  },
-  {
-    "count": 1,
     "hostname": "m.plus.co.th"
   },
   {
@@ -6113,10 +5337,6 @@
   },
   {
     "count": 1,
-    "hostname": "naist.cpe.ku.ac.th"
-  },
-  {
-    "count": 1,
     "hostname": "naked-guy.com"
   },
   {
@@ -6134,10 +5354,6 @@
   {
     "count": 1,
     "hostname": "nav.cn.ronghub.com"
-  },
-  {
-    "count": 1,
-    "hostname": "nec.psd.ku.ac.th"
   },
   {
     "count": 1,
@@ -6197,10 +5413,6 @@
   },
   {
     "count": 1,
-    "hostname": "nisit.ku.ac.th"
-  },
-  {
-    "count": 1,
     "hostname": "nlcfoundation.org"
   },
   {
@@ -6214,14 +5426,6 @@
   {
     "count": 1,
     "hostname": "node115.fractionalmedia.com"
-  },
-  {
-    "count": 1,
-    "hostname": "nontrigames.kus.ku.ac.th"
-  },
-  {
-    "count": 1,
-    "hostname": "nontrinews.ku.ac.th"
   },
   {
     "count": 1,
@@ -6313,14 +5517,6 @@
   },
   {
     "count": 1,
-    "hostname": "ofs.soc.ku.ac.th"
-  },
-  {
-    "count": 1,
-    "hostname": "ogrf.grad.ku.ac.th"
-  },
-  {
-    "count": 1,
     "hostname": "ogserver-prod.appspot.com"
   },
   {
@@ -6354,10 +5550,6 @@
   {
     "count": 1,
     "hostname": "ookbee.helpshift.com"
-  },
-  {
-    "count": 1,
-    "hostname": "oos.flas.kps.ku.ac.th"
   },
   {
     "count": 1,
@@ -6406,10 +5598,6 @@
   {
     "count": 1,
     "hostname": "orionimg.adkmob.com"
-  },
-  {
-    "count": 1,
-    "hostname": "osc.src.ku.ac.th"
   },
   {
     "count": 1,
@@ -7141,22 +6329,6 @@
   },
   {
     "count": 1,
-    "hostname": "peanut-crsp.kapi.ku.ac.th"
-  },
-  {
-    "count": 1,
-    "hostname": "ped.edu.ku.ac.th"
-  },
-  {
-    "count": 1,
-    "hostname": "pe.edu.kps.ku.ac.th"
-  },
-  {
-    "count": 1,
-    "hostname": "pe.eng.ku.ac.th"
-  },
-  {
-    "count": 1,
     "hostname": "pencils.com"
   },
   {
@@ -7186,10 +6358,6 @@
   {
     "count": 1,
     "hostname": "pgl.yoyo.org"
-  },
-  {
-    "count": 1,
-    "hostname": "phd.bus.ku.ac.th"
   },
   {
     "count": 1,
@@ -7333,14 +6501,6 @@
   },
   {
     "count": 1,
-    "hostname": "portal.lib.ku.ac.th:10332"
-  },
-  {
-    "count": 1,
-    "hostname": "portal.lib.ku.ac.th:10356"
-  },
-  {
-    "count": 1,
     "hostname": "portfolio.orange-thailand.com"
   },
   {
@@ -7421,15 +6581,7 @@
   },
   {
     "count": 1,
-    "hostname": "psdb.ku.ac.th"
-  },
-  {
-    "count": 1,
     "hostname": "ps.ns-cdn.com"
-  },
-  {
-    "count": 1,
-    "hostname": "psy.soc.ku.ac.th"
   },
   {
     "count": 1,
@@ -7497,15 +6649,7 @@
   },
   {
     "count": 1,
-    "hostname": "qa.csc.ku.ac.th"
-  },
-  {
-    "count": 1,
     "hostname": "q.adrta.com"
-  },
-  {
-    "count": 1,
-    "hostname": "qa.src.ku.ac.th"
   },
   {
     "count": 1,
@@ -8433,10 +7577,6 @@
   },
   {
     "count": 1,
-    "hostname": "radio.ku.ac.th"
-  },
-  {
-    "count": 1,
     "hostname": "rainy-day.exteen.com"
   },
   {
@@ -8454,10 +7594,6 @@
   {
     "count": 1,
     "hostname": "rc.symcb.com"
-  },
-  {
-    "count": 1,
-    "hostname": "rdipt.ku.ac.th"
   },
   {
     "count": 1,
@@ -8481,19 +7617,7 @@
   },
   {
     "count": 1,
-    "hostname": "reg5.src.ku.ac.th"
-  },
-  {
-    "count": 1,
     "hostname": "register.appsflyer.com"
-  },
-  {
-    "count": 1,
-    "hostname": "regweb.registrar.ku.ac.th"
-  },
-  {
-    "count": 1,
-    "hostname": "re.kps.ku.ac.th"
   },
   {
     "count": 1,
@@ -8517,10 +7641,6 @@
   },
   {
     "count": 1,
-    "hostname": "research.eng.src.ku.ac.th"
-  },
-  {
-    "count": 1,
     "hostname": "resources.host.bannerflow.com"
   },
   {
@@ -8534,14 +7654,6 @@
   {
     "count": 1,
     "hostname": "restoransheikh.ru"
-  },
-  {
-    "count": 1,
-    "hostname": "rice.kps.ku.ac.th"
-  },
-  {
-    "count": 1,
-    "hostname": "rilc.ku.ac.th"
   },
   {
     "count": 1,
@@ -8622,10 +7734,6 @@
   {
     "count": 1,
     "hostname": "rs-jp.toram.jp"
-  },
-  {
-    "count": 1,
-    "hostname": "rsv.src.ku.ac.th"
   },
   {
     "count": 1,
@@ -8781,27 +7889,11 @@
   },
   {
     "count": 1,
-    "hostname": "sasd.psd.kps.ku.ac.th"
-  },
-  {
-    "count": 1,
     "hostname": "sastts.com"
   },
   {
     "count": 1,
-    "hostname": "sat.ocs.ku.ac.th"
-  },
-  {
-    "count": 1,
     "hostname": "savoyplace.theiet.org"
-  },
-  {
-    "count": 1,
-    "hostname": "sbai.agro.ku.ac.th"
-  },
-  {
-    "count": 1,
-    "hostname": "sbc.ku.ac.th"
   },
   {
     "count": 1,
@@ -8882,10 +7974,6 @@
   {
     "count": 1,
     "hostname": "sd1.cdnwatch.com"
-  },
-  {
-    "count": 1,
-    "hostname": "sd.grad.ku.ac.th"
   },
   {
     "count": 1,
@@ -9121,10 +8209,6 @@
   },
   {
     "count": 1,
-    "hostname": "smart.ku.ac.th"
-  },
-  {
-    "count": 1,
     "hostname": "smart.tinyhoneybee.com"
   },
   {
@@ -9233,10 +8317,6 @@
   },
   {
     "count": 1,
-    "hostname": "sp-regis.ku.ac.th"
-  },
-  {
-    "count": 1,
     "hostname": "sqm.telemetry.microsoft.com"
   },
   {
@@ -9254,10 +8334,6 @@
   {
     "count": 1,
     "hostname": "ss0.baidu.com"
-  },
-  {
-    "count": 1,
-    "hostname": "ssd.piersa.pl"
   },
   {
     "count": 1,
@@ -9461,10 +8537,6 @@
   },
   {
     "count": 1,
-    "hostname": "std.flas.kps.ku.ac.th"
-  },
-  {
-    "count": 1,
     "hostname": "st.mycdn.me"
   },
   {
@@ -9518,10 +8590,6 @@
   {
     "count": 1,
     "hostname": "su3.mcafee.com"
-  },
-  {
-    "count": 1,
-    "hostname": "sugarcanecenter.rdi.kps.ku.ac.th"
   },
   {
     "count": 1,
@@ -9677,10 +8745,6 @@
   },
   {
     "count": 1,
-    "hostname": "taip.agr.ku.ac.th"
-  },
-  {
-    "count": 1,
     "hostname": "tap.rubiconproject.com"
   },
   {
@@ -9785,15 +8849,7 @@
   },
   {
     "count": 1,
-    "hostname": "test.sp.ku.ac.th"
-  },
-  {
-    "count": 1,
     "hostname": "textadc2.gomtv.com"
-  },
-  {
-    "count": 1,
-    "hostname": "t-fern.forest.ku.ac.th"
   },
   {
     "count": 1,
@@ -10197,10 +9253,6 @@
   },
   {
     "count": 1,
-    "hostname": "trop.agr.ku.ac.th"
-  },
-  {
-    "count": 1,
     "hostname": "truemove.truecorp.co.th"
   },
   {
@@ -10477,14 +9529,6 @@
   },
   {
     "count": 1,
-    "hostname": "vet.kps.ku.ac.th"
-  },
-  {
-    "count": 1,
-    "hostname": "vettech.ku.ac.th"
-  },
-  {
-    "count": 1,
     "hostname": "vic.co.th"
   },
   {
@@ -10570,10 +9614,6 @@
   {
     "count": 1,
     "hostname": "visitor.omnitagjs.com"
-  },
-  {
-    "count": 1,
-    "hostname": "voc.edu.ku.ac.th"
   },
   {
     "count": 1,
@@ -10694,10 +9734,6 @@
   {
     "count": 1,
     "hostname": "weblink.settrade.com"
-  },
-  {
-    "count": 1,
-    "hostname": "webmail.ku.ac.th:443"
   },
   {
     "count": 1,
@@ -10981,10 +10017,6 @@
   },
   {
     "count": 1,
-    "hostname": "www2.kus.ku.ac.th"
-  },
-  {
-    "count": 1,
     "hostname": "www2.totwifi.com"
   },
   {
@@ -11037,10 +10069,6 @@
   },
   {
     "count": 1,
-    "hostname": "www.acas.bus.ku.ac.th"
-  },
-  {
-    "count": 1,
     "hostname": "www.acer.com.cn"
   },
   {
@@ -11053,15 +10081,7 @@
   },
   {
     "count": 1,
-    "hostname": "www.agext.agri.kps.ku.ac.th"
-  },
-  {
-    "count": 1,
     "hostname": "www.agkn.com"
-  },
-  {
-    "count": 1,
-    "hostname": "www.agron.agr.ku.ac.th"
   },
   {
     "count": 1,
@@ -11070,10 +10090,6 @@
   {
     "count": 1,
     "hostname": "www.amarinbabyandkids.com"
-  },
-  {
-    "count": 1,
-    "hostname": "www.amc.kps.ku.ac.th"
   },
   {
     "count": 1,
@@ -11153,31 +10169,11 @@
   },
   {
     "count": 1,
-    "hostname": "www.biochem.flas.kps.ku.ac.th"
-  },
-  {
-    "count": 1,
-    "hostname": "www.bio.flas.kps.ku.ac.th"
-  },
-  {
-    "count": 1,
-    "hostname": "www.bioscience.project.ku.ac.th"
-  },
-  {
-    "count": 1,
     "hostname": "www.broadcastthai.com"
   },
   {
     "count": 1,
     "hostname": "www.buydomains.com"
-  },
-  {
-    "count": 1,
-    "hostname": "www.caer.eco.ku.ac.th"
-  },
-  {
-    "count": 1,
-    "hostname": "www.calendar.ku.ac.th"
   },
   {
     "count": 1,
@@ -11201,14 +10197,6 @@
   },
   {
     "count": 1,
-    "hostname": "www.che.eng.ku.ac.th"
-  },
-  {
-    "count": 1,
-    "hostname": "www.chem.flas.kps.ku.ac.th"
-  },
-  {
-    "count": 1,
     "hostname": "www.chillpainai.com"
   },
   {
@@ -11217,23 +10205,11 @@
   },
   {
     "count": 1,
-    "hostname": "www.cit.kps.ku.ac.th"
-  },
-  {
-    "count": 1,
     "hostname": "www.clipartkid.com"
   },
   {
     "count": 1,
     "hostname": "www.cm.ksmobile.com"
-  },
-  {
-    "count": 1,
-    "hostname": "www.cm-mba.bus.ku.ac.th"
-  },
-  {
-    "count": 1,
-    "hostname": "www.conference.forest.ku.ac.th"
   },
   {
     "count": 1,
@@ -11249,15 +10225,7 @@
   },
   {
     "count": 1,
-    "hostname": "www.cras.ms.src.ku.ac.th"
-  },
-  {
-    "count": 1,
     "hostname": "www.crownproperty.or.th"
-  },
-  {
-    "count": 1,
-    "hostname": "www.crvlab.eng.ku.ac.th"
   },
   {
     "count": 1,
@@ -11269,19 +10237,11 @@
   },
   {
     "count": 1,
-    "hostname": "www.des.csc.ku.ac.th"
-  },
-  {
-    "count": 1,
     "hostname": "www.dezineguide.com"
   },
   {
     "count": 1,
     "hostname": "www.diaryclub.com"
-  },
-  {
-    "count": 1,
-    "hostname": "www.doed.edu.ku.ac.th"
   },
   {
     "count": 1,
@@ -11322,26 +10282,6 @@
   {
     "count": 1,
     "hostname": "www.edtguide.com"
-  },
-  {
-    "count": 1,
-    "hostname": "www.edupsy.edu.ku.ac.th"
-  },
-  {
-    "count": 1,
-    "hostname": "www.edus.soc.ku.ac.th"
-  },
-  {
-    "count": 1,
-    "hostname": "www.emp.eng.ku.ac.th"
-  },
-  {
-    "count": 1,
-    "hostname": "www.ento.agr.ku.ac.th"
-  },
-  {
-    "count": 1,
-    "hostname": "www.eoffice.ku.ac.th"
   },
   {
     "count": 1,
@@ -11398,10 +10338,6 @@
   {
     "count": 1,
     "hostname": "www.fansshare.com"
-  },
-  {
-    "count": 1,
-    "hostname": "www.faqs.grad.ku.ac.th"
   },
   {
     "count": 1,
@@ -11481,19 +10417,11 @@
   },
   {
     "count": 1,
-    "hostname": "www.google.pl"
-  },
-  {
-    "count": 1,
     "hostname": "www.google.pt"
   },
   {
     "count": 1,
     "hostname": "www.google.ru"
-  },
-  {
-    "count": 1,
-    "hostname": "www.go.sa.ku.ac.th"
   },
   {
     "count": 1,
@@ -11553,19 +10481,7 @@
   },
   {
     "count": 1,
-    "hostname": "www.ia.psd.ku.ac.th"
-  },
-  {
-    "count": 1,
-    "hostname": "www.ichcrd2016.kasetsart.org"
-  },
-  {
-    "count": 1,
     "hostname": "www.iconarchive.com"
-  },
-  {
-    "count": 1,
-    "hostname": "www.ie.eng.ku.ac.th"
   },
   {
     "count": 1,
@@ -11613,10 +10529,6 @@
   },
   {
     "count": 1,
-    "hostname": "www.kasetsart.org"
-  },
-  {
-    "count": 1,
     "hostname": "www.kchatjjigae.com"
   },
   {
@@ -11645,31 +10557,7 @@
   },
   {
     "count": 1,
-    "hostname": "www.konex.ku.ac.th"
-  },
-  {
-    "count": 1,
-    "hostname": "www.kuf.ku.ac.th"
-  },
-  {
-    "count": 1,
-    "hostname": "www.kulc.lib.ku.ac.th"
-  },
-  {
-    "count": 1,
-    "hostname": "www.ku.th"
-  },
-  {
-    "count": 1,
-    "hostname": "www.las.vet.kps.ku.ac.th"
-  },
-  {
-    "count": 1,
     "hostname": "www.launchbit.com"
-  },
-  {
-    "count": 1,
-    "hostname": "www.lawsp.soc.ku.ac.th"
   },
   {
     "count": 1,
@@ -11690,10 +10578,6 @@
   {
     "count": 1,
     "hostname": "www.linkwithin.com"
-  },
-  {
-    "count": 1,
-    "hostname": "www.lit.human.ku.ac.th"
   },
   {
     "count": 1,
@@ -11781,10 +10665,6 @@
   },
   {
     "count": 1,
-    "hostname": "www.nisit.kasetsart.org"
-  },
-  {
-    "count": 1,
     "hostname": "www.nnvl.noaa.gov"
   },
   {
@@ -11798,14 +10678,6 @@
   {
     "count": 1,
     "hostname": "www.nungav.com"
-  },
-  {
-    "count": 1,
-    "hostname": "www.oamc.ku.ac.th"
-  },
-  {
-    "count": 1,
-    "hostname": "www.ocs.ku.ac.th"
   },
   {
     "count": 1,
@@ -11833,23 +10705,11 @@
   },
   {
     "count": 1,
-    "hostname": "www.philos-reli.human.ku.ac.th"
-  },
-  {
-    "count": 1,
     "hostname": "www.phoneonlineupdate.com:7080"
   },
   {
     "count": 1,
     "hostname": "www.php.net"
-  },
-  {
-    "count": 1,
-    "hostname": "www.physics.sci.ku.ac.th"
-  },
-  {
-    "count": 1,
-    "hostname": "www.physio.vet.ku.ac.th"
   },
   {
     "count": 1,
@@ -11862,10 +10722,6 @@
   {
     "count": 1,
     "hostname": "www.pinterest.com"
-  },
-  {
-    "count": 1,
-    "hostname": "www.planning.ku.ac.th"
   },
   {
     "count": 1,
@@ -11905,23 +10761,11 @@
   },
   {
     "count": 1,
-    "hostname": "www.quota.forest.ku.ac.th"
-  },
-  {
-    "count": 1,
     "hostname": "www.raptu.com"
   },
   {
     "count": 1,
-    "hostname": "www.reg1.src.ku.ac.th"
-  },
-  {
-    "count": 1,
     "hostname": "www.reimageplus.com"
-  },
-  {
-    "count": 1,
-    "hostname": "www.research.ifrpd.ku.ac.th"
   },
   {
     "count": 1,
@@ -11933,23 +10777,7 @@
   },
   {
     "count": 1,
-    "hostname": "www.rpttc.flas.kps.ku.ac.th"
-  },
-  {
-    "count": 1,
     "hostname": "www.sarakuntho.org"
-  },
-  {
-    "count": 1,
-    "hostname": "www.sa.sa.ku.ac.th"
-  },
-  {
-    "count": 1,
-    "hostname": "www.satitkasetip.kus.ku.ac.th"
-  },
-  {
-    "count": 1,
-    "hostname": "www.sbai.agro.ku.ac.th"
   },
   {
     "count": 1,
@@ -11961,15 +10789,7 @@
   },
   {
     "count": 1,
-    "hostname": "www.sci.src.ku.ac.th"
-  },
-  {
-    "count": 1,
     "hostname": "www.scriptshead.com"
-  },
-  {
-    "count": 1,
-    "hostname": "www.sd.grad.ku.ac.th"
   },
   {
     "count": 1,
@@ -11977,27 +10797,11 @@
   },
   {
     "count": 1,
-    "hostname": "www.sep.flas.kps.ku.ac.th"
-  },
-  {
-    "count": 1,
     "hostname": "www.series-onlines.com"
   },
   {
     "count": 1,
-    "hostname": "www.sfst.agr.ku.ac.th"
-  },
-  {
-    "count": 1,
     "hostname": "www.siamdara.com"
-  },
-  {
-    "count": 1,
-    "hostname": "www.silvic.forest.ku.ac.th"
-  },
-  {
-    "count": 1,
-    "hostname": "www.smart.ku.ac.th"
   },
   {
     "count": 1,
@@ -12029,10 +10833,6 @@
   },
   {
     "count": 1,
-    "hostname": "www.sru.agro.ku.ac.th"
-  },
-  {
-    "count": 1,
     "hostname": "www.ssacdn.com"
   },
   {
@@ -12045,10 +10845,6 @@
   },
   {
     "count": 1,
-    "hostname": "www.stbe.eng.ku.ac.th"
-  },
-  {
-    "count": 1,
     "hostname": "www.stickboydaily.com"
   },
   {
@@ -12058,10 +10854,6 @@
   {
     "count": 1,
     "hostname": "www.sweetcomments.net"
-  },
-  {
-    "count": 1,
-    "hostname": "www.sw.sa.ku.ac.th"
   },
   {
     "count": 1,
@@ -13501,10 +12293,6 @@
   },
   {
     "count": 1,
-    "hostname": "www.thefabtech.com"
-  },
-  {
-    "count": 1,
     "hostname": "www.thegoldfishguides-violinlove.blogspot.jp"
   },
   {
@@ -14082,10 +12870,6 @@
   {
     "count": 1,
     "hostname": "www.tp-nfe.go.th"
-  },
-  {
-    "count": 1,
-    "hostname": "www.tpqi.human.ku.ac.th"
   },
   {
     "count": 1,
@@ -14845,10 +13629,6 @@
   },
   {
     "count": 1,
-    "hostname": "www.vnsp.vettech.ku.ac.th"
-  },
-  {
-    "count": 1,
     "hostname": "www.vogue.co.th"
   },
   {
@@ -14898,10 +13678,6 @@
   {
     "count": 1,
     "hostname": "www.vsnumber.com"
-  },
-  {
-    "count": 1,
-    "hostname": "www.vth.vet.ku.ac.th"
   },
   {
     "count": 1,
@@ -15137,10 +13913,6 @@
   },
   {
     "count": 1,
-    "hostname": "www.webmail.ku.ac.th"
-  },
-  {
-    "count": 1,
     "hostname": "www.webmaster.or.th"
   },
   {
@@ -15150,10 +13922,6 @@
   {
     "count": 1,
     "hostname": "www.webplant.net"
-  },
-  {
-    "count": 1,
-    "hostname": "www.webportal.ku.ac.th"
   },
   {
     "count": 1,
@@ -15486,10 +14254,6 @@
   {
     "count": 1,
     "hostname": "www.wtechasia.com"
-  },
-  {
-    "count": 1,
-    "hostname": "www.wt.eng.ku.ac.th"
   },
   {
     "count": 1,
@@ -15998,10 +14762,6 @@
   {
     "count": 1,
     "hostname": "www.zoo.ru.ac.th"
-  },
-  {
-    "count": 1,
-    "hostname": "www.zoo.sci.ku.ac.th"
   },
   {
     "count": 1,
@@ -18497,90 +17257,6 @@
   },
   {
     "count": 2,
-    "hostname": "158.108.102.18"
-  },
-  {
-    "count": 2,
-    "hostname": "158.108.102.26"
-  },
-  {
-    "count": 2,
-    "hostname": "158.108.110.154"
-  },
-  {
-    "count": 2,
-    "hostname": "158.108.110.35"
-  },
-  {
-    "count": 2,
-    "hostname": "158.108.120.11"
-  },
-  {
-    "count": 2,
-    "hostname": "158.108.14.166:8080"
-  },
-  {
-    "count": 2,
-    "hostname": "158.108.144.14"
-  },
-  {
-    "count": 2,
-    "hostname": "158.108.199.2"
-  },
-  {
-    "count": 2,
-    "hostname": "158.108.200.155"
-  },
-  {
-    "count": 2,
-    "hostname": "158.108.219.187"
-  },
-  {
-    "count": 2,
-    "hostname": "158.108.219.35"
-  },
-  {
-    "count": 2,
-    "hostname": "158.108.219.94"
-  },
-  {
-    "count": 2,
-    "hostname": "158.108.220.22"
-  },
-  {
-    "count": 2,
-    "hostname": "158.108.250.182"
-  },
-  {
-    "count": 2,
-    "hostname": "158.108.32.60"
-  },
-  {
-    "count": 2,
-    "hostname": "158.108.4.251"
-  },
-  {
-    "count": 2,
-    "hostname": "158.108.49.243:8080"
-  },
-  {
-    "count": 2,
-    "hostname": "158.108.51.125"
-  },
-  {
-    "count": 2,
-    "hostname": "158.108.54.2"
-  },
-  {
-    "count": 2,
-    "hostname": "158.108.70.5"
-  },
-  {
-    "count": 2,
-    "hostname": "158.108.80.10"
-  },
-  {
-    "count": 2,
     "hostname": "162.254.192.11:80"
   },
   {
@@ -18785,14 +17461,6 @@
   },
   {
     "count": 2,
-    "hostname": "acc5bangkok2015.kasetsart.org"
-  },
-  {
-    "count": 2,
-    "hostname": "access.cs.sci.ku.ac.th"
-  },
-  {
-    "count": 2,
     "hostname": "access.twinkboyfriends.tv"
   },
   {
@@ -18889,10 +17557,6 @@
   },
   {
     "count": 2,
-    "hostname": "advisor.ku.ac.th"
-  },
-  {
-    "count": 2,
     "hostname": "adx.adnxs.com"
   },
   {
@@ -18906,10 +17570,6 @@
   {
     "count": 2,
     "hostname": "aff-a.advertica-cdn.com"
-  },
-  {
-    "count": 2,
-    "hostname": "agr.ku.ac.th"
   },
   {
     "count": 2,
@@ -18946,10 +17606,6 @@
   {
     "count": 2,
     "hostname": "aorta.clickagy.com"
-  },
-  {
-    "count": 2,
-    "hostname": "apcess2017.kasetsart.org"
   },
   {
     "count": 2,
@@ -19129,10 +17785,6 @@
   },
   {
     "count": 2,
-    "hostname": "arch.ku.ac.th"
-  },
-  {
-    "count": 2,
     "hostname": "arenalagu.xyz"
   },
   {
@@ -19145,19 +17797,11 @@
   },
   {
     "count": 2,
-    "hostname": "as9411.http.sasm3.net"
-  },
-  {
-    "count": 2,
     "hostname": "asoscomltd.tt.omtrdc.net"
   },
   {
     "count": 2,
     "hostname": "aspenphp.com"
-  },
-  {
-    "count": 2,
-    "hostname": "asproject.sci.ku.ac.th"
   },
   {
     "count": 2,
@@ -19285,10 +17929,6 @@
   },
   {
     "count": 2,
-    "hostname": "bio.flas.kps.ku.ac.th"
-  },
-  {
-    "count": 2,
     "hostname": "bl3301.storage.live.com"
   },
   {
@@ -19302,10 +17942,6 @@
   {
     "count": 2,
     "hostname": "bob-hermes.gameloft.com"
-  },
-  {
-    "count": 2,
-    "hostname": "botany.sci.ku.ac.th"
   },
   {
     "count": 2,
@@ -19366,10 +18002,6 @@
   {
     "count": 2,
     "hostname": "cache.datamart.windows.com"
-  },
-  {
-    "count": 2,
-    "hostname": "caer.eco.ku.ac.th"
   },
   {
     "count": 2,
@@ -19549,10 +18181,6 @@
   },
   {
     "count": 2,
-    "hostname": "che.eng.ku.ac.th"
-  },
-  {
-    "count": 2,
     "hostname": "cldup.com"
   },
   {
@@ -19613,15 +18241,7 @@
   },
   {
     "count": 2,
-    "hostname": "confucius.human.ku.ac.th"
-  },
-  {
-    "count": 2,
     "hostname": "connect.ok.ru"
-  },
-  {
-    "count": 2,
-    "hostname": "conservation.forest.ku.ac.th"
   },
   {
     "count": 2,
@@ -19653,14 +18273,6 @@
   },
   {
     "count": 2,
-    "hostname": "coop.ku.ac.th"
-  },
-  {
-    "count": 2,
-    "hostname": "coopshop.ku.ac.th"
-  },
-  {
-    "count": 2,
     "hostname": "core.cloud.unity3d.com"
   },
   {
@@ -19674,14 +18286,6 @@
   {
     "count": 2,
     "hostname": "c.paypal.com"
-  },
-  {
-    "count": 2,
-    "hostname": "cpc.ku.ac.th"
-  },
-  {
-    "count": 2,
-    "hostname": "cpe.ku.ac.th"
   },
   {
     "count": 2,
@@ -19726,10 +18330,6 @@
   {
     "count": 2,
     "hostname": "c.stat.nearme.com.cn:10014"
-  },
-  {
-    "count": 2,
-    "hostname": "cst.eng.ku.ac.th"
   },
   {
     "count": 2,
@@ -19805,18 +18405,6 @@
   },
   {
     "count": 2,
-    "hostname": "dbkps.kps.ku.ac.th"
-  },
-  {
-    "count": 2,
-    "hostname": "dbs.csc.ku.ac.th"
-  },
-  {
-    "count": 2,
-    "hostname": "dbs.csc.ku.ac.th:8080"
-  },
-  {
-    "count": 2,
     "hostname": "dc.di.atlas.samsung.com"
   },
   {
@@ -19842,10 +18430,6 @@
   {
     "count": 2,
     "hostname": "dfrs12kz9qye2.cloudfront.net"
-  },
-  {
-    "count": 2,
-    "hostname": "digital.forest.ku.ac.th"
   },
   {
     "count": 2,
@@ -19889,10 +18473,6 @@
   },
   {
     "count": 2,
-    "hostname": "dnatec.kps.ku.ac.th"
-  },
-  {
-    "count": 2,
     "hostname": "dnn506yrbagrg.cloudfront.net"
   },
   {
@@ -19917,15 +18497,7 @@
   },
   {
     "count": 2,
-    "hostname": "dpl.arch.ku.ac.th"
-  },
-  {
-    "count": 2,
     "hostname": "dsa.csdata1.com"
-  },
-  {
-    "count": 2,
-    "hostname": "dsd.sa.ku.ac.th"
   },
   {
     "count": 2,
@@ -19954,10 +18526,6 @@
   {
     "count": 2,
     "hostname": "ec.sascdn.com"
-  },
-  {
-    "count": 2,
-    "hostname": "edtech.edu.ku.ac.th"
   },
   {
     "count": 2,
@@ -20009,10 +18577,6 @@
   },
   {
     "count": 2,
-    "hostname": "eve.eng.ku.ac.th"
-  },
-  {
-    "count": 2,
     "hostname": "events3.adcolony.com"
   },
   {
@@ -20029,10 +18593,6 @@
   },
   {
     "count": 2,
-    "hostname": "ex-assess.ku.ac.th"
-  },
-  {
-    "count": 2,
     "hostname": "extreme.co.th"
   },
   {
@@ -20042,10 +18602,6 @@
   {
     "count": 2,
     "hostname": "f7031642.iavs9x.u.avast.com"
-  },
-  {
-    "count": 2,
-    "hostname": "farm-machinery.agr.ku.ac.th"
   },
   {
     "count": 2,
@@ -20150,10 +18706,6 @@
   {
     "count": 2,
     "hostname": "gce-beacons.gcp.gvt2.com"
-  },
-  {
-    "count": 2,
-    "hostname": "geneng.grad.ku.ac.th"
   },
   {
     "count": 2,
@@ -20301,10 +18853,6 @@
   },
   {
     "count": 2,
-    "hostname": "human.ku.ac.th"
-  },
-  {
-    "count": 2,
     "hostname": "hw-cdn.trafficjunky.net"
   },
   {
@@ -20350,10 +18898,6 @@
   {
     "count": 2,
     "hostname": "i-43.b-43580.ut.bench.utorrent.com"
-  },
-  {
-    "count": 2,
-    "hostname": "icps2015.kasetsart.org"
   },
   {
     "count": 2,
@@ -20541,23 +19085,11 @@
   },
   {
     "count": 2,
-    "hostname": "isad.csc.ku.ac.th"
-  },
-  {
-    "count": 2,
-    "hostname": "iset2015.kasetsart.org"
-  },
-  {
-    "count": 2,
     "hostname": "i.skoutapis.com"
   },
   {
     "count": 2,
     "hostname": "isrg.trustid.ocsp.identrust.com"
-  },
-  {
-    "count": 2,
-    "hostname": "it.cab.kps.ku.ac.th"
   },
   {
     "count": 2,
@@ -20582,14 +19114,6 @@
   {
     "count": 2,
     "hostname": "jelly-ios.cliapi.microfun.com"
-  },
-  {
-    "count": 2,
-    "hostname": "jindamanee.lib.ku.ac.th:8080"
-  },
-  {
-    "count": 2,
-    "hostname": "journal.eco.ku.ac.th"
   },
   {
     "count": 2,
@@ -20625,10 +19149,6 @@
   },
   {
     "count": 2,
-    "hostname": "knowbita.cpe.ku.ac.th"
-  },
-  {
-    "count": 2,
     "hostname": "koma.hippy.jp"
   },
   {
@@ -20642,14 +19162,6 @@
   {
     "count": 2,
     "hostname": "kuaptrk.com"
-  },
-  {
-    "count": 2,
-    "hostname": "ku-iged.psd.ku.ac.th"
-  },
-  {
-    "count": 2,
-    "hostname": "kuseawatch.rdi.ku.ac.th"
   },
   {
     "count": 2,
@@ -20797,10 +19309,6 @@
   },
   {
     "count": 2,
-    "hostname": "math.flas.kps.ku.ac.th"
-  },
-  {
-    "count": 2,
     "hostname": "mathid.mathtag.com"
   },
   {
@@ -20838,14 +19346,6 @@
   {
     "count": 2,
     "hostname": "metrics-nl.fitanalytics.com"
-  },
-  {
-    "count": 2,
-    "hostname": "mic.ku.ac.th"
-  },
-  {
-    "count": 2,
-    "hostname": "minimba.bus.ku.ac.th"
   },
   {
     "count": 2,
@@ -20949,10 +19449,6 @@
   },
   {
     "count": 2,
-    "hostname": "newgrad.sa.ku.ac.th"
-  },
-  {
-    "count": 2,
     "hostname": "newpromo.mumbai-inves"
   },
   {
@@ -21010,10 +19506,6 @@
   {
     "count": 2,
     "hostname": "nxm-jinsam.akamaized.net"
-  },
-  {
-    "count": 2,
-    "hostname": "oamc.ku.ac.th"
   },
   {
     "count": 2,
@@ -21517,10 +20009,6 @@
   },
   {
     "count": 2,
-    "hostname": "posaa.kapi.ku.ac.th"
-  },
-  {
-    "count": 2,
     "hostname": "powerquality.eaton.com"
   },
   {
@@ -21833,10 +20321,6 @@
   },
   {
     "count": 2,
-    "hostname": "rpttc.flas.kps.ku.ac.th"
-  },
-  {
-    "count": 2,
     "hostname": "rqd.uu.qq.com"
   },
   {
@@ -21854,10 +20338,6 @@
   {
     "count": 2,
     "hostname": "rudy.adsnative.com"
-  },
-  {
-    "count": 2,
-    "hostname": "runthailand.ku.ac.th"
   },
   {
     "count": 2,
@@ -21905,10 +20385,6 @@
   },
   {
     "count": 2,
-    "hostname": "sa.sa.ku.ac.th"
-  },
-  {
-    "count": 2,
     "hostname": "s.atemda.com"
   },
   {
@@ -21922,10 +20398,6 @@
   {
     "count": 2,
     "hostname": "s-cdn.phonearena.com"
-  },
-  {
-    "count": 2,
-    "hostname": "sci.ku.ac.th:8000"
   },
   {
     "count": 2,
@@ -22101,10 +20573,6 @@
   },
   {
     "count": 2,
-    "hostname": "sqa.eco.ku.ac.th"
-  },
-  {
-    "count": 2,
     "hostname": "srv-live-02.lazada.co.th"
   },
   {
@@ -22130,10 +20598,6 @@
   {
     "count": 2,
     "hostname": "ssp.api.tappx.com"
-  },
-  {
-    "count": 2,
-    "hostname": "ss.sa.ku.ac.th"
   },
   {
     "count": 2,
@@ -22313,10 +20777,6 @@
   },
   {
     "count": 2,
-    "hostname": "tcf.human.ku.ac.th"
-  },
-  {
-    "count": 2,
     "hostname": "tconf2.uk.cloud.360safe.com"
   },
   {
@@ -22481,10 +20941,6 @@
   },
   {
     "count": 2,
-    "hostname": "training.ku.ac.th"
-  },
-  {
-    "count": 2,
     "hostname": "translate.google.co.th"
   },
   {
@@ -22506,10 +20962,6 @@
   {
     "count": 2,
     "hostname": "tse1.mm.bing.net"
-  },
-  {
-    "count": 2,
-    "hostname": "tsjenvi.thaiddns.com"
   },
   {
     "count": 2,
@@ -22737,10 +21189,6 @@
   },
   {
     "count": 2,
-    "hostname": "vph.vet.ku.ac.th"
-  },
-  {
-    "count": 2,
     "hostname": "vsco.app.link"
   },
   {
@@ -22925,10 +21373,6 @@
   },
   {
     "count": 2,
-    "hostname": "www.access.cs.sci.ku.ac.th"
-  },
-  {
-    "count": 2,
     "hostname": "www.adobe.com"
   },
   {
@@ -22945,10 +21389,6 @@
   },
   {
     "count": 2,
-    "hostname": "www.av.eto.ku.ac.th"
-  },
-  {
-    "count": 2,
     "hostname": "www.backlinksthai.com"
   },
   {
@@ -22957,23 +21397,11 @@
   },
   {
     "count": 2,
-    "hostname": "www.botany.sci.ku.ac.th"
-  },
-  {
-    "count": 2,
     "hostname": "www.capragia.com"
   },
   {
     "count": 2,
-    "hostname": "www.cbit.arch.ku.ac.th"
-  },
-  {
-    "count": 2,
     "hostname": "www.chegg.com"
-  },
-  {
-    "count": 2,
-    "hostname": "www.civil.eng.kps.ku.ac.th"
   },
   {
     "count": 2,
@@ -22982,10 +21410,6 @@
   {
     "count": 2,
     "hostname": "www.colo.in.th"
-  },
-  {
-    "count": 2,
-    "hostname": "www.co-op.psd.ku.ac.th"
   },
   {
     "count": 2,
@@ -23021,19 +21445,7 @@
   },
   {
     "count": 2,
-    "hostname": "www.eco.ku.ac.th"
-  },
-  {
-    "count": 2,
-    "hostname": "www.edtech.edu.ku.ac.th"
-  },
-  {
-    "count": 2,
     "hostname": "www.ejobeasy.com"
-  },
-  {
-    "count": 2,
-    "hostname": "www.eng.src.ku.ac.th"
   },
   {
     "count": 2,
@@ -23049,19 +21461,11 @@
   },
   {
     "count": 2,
-    "hostname": "www.finance.ku.ac.th"
-  },
-  {
-    "count": 2,
     "hostname": "www.flickr.com"
   },
   {
     "count": 2,
     "hostname": "www.gbfree.net"
-  },
-  {
-    "count": 2,
-    "hostname": "www.geneng.grad.ku.ac.th"
   },
   {
     "count": 2,
@@ -23073,23 +21477,11 @@
   },
   {
     "count": 2,
-    "hostname": "www.hort.agr.ku.ac.th"
-  },
-  {
-    "count": 2,
-    "hostname": "www.icgsi2015.eng.ku.ac.th"
-  },
-  {
-    "count": 2,
     "hostname": "www.img1.imeaw.com"
   },
   {
     "count": 2,
     "hostname": "www.imgviewer.info"
-  },
-  {
-    "count": 2,
-    "hostname": "www.iregis.registrar.ku.ac.th"
   },
   {
     "count": 2,
@@ -23102,18 +21494,6 @@
   {
     "count": 2,
     "hostname": "www.kelliekraft.com"
-  },
-  {
-    "count": 2,
-    "hostname": "www.kitman.human.ku.ac.th"
-  },
-  {
-    "count": 2,
-    "hostname": "www.ku-iged.psd.ku.ac.th"
-  },
-  {
-    "count": 2,
-    "hostname": "www.ku-sall.human.ku.ac.th"
   },
   {
     "count": 2,
@@ -23165,10 +21545,6 @@
   },
   {
     "count": 2,
-    "hostname": "www.msp.agro.ku.ac.th"
-  },
-  {
-    "count": 2,
     "hostname": "www.musicroom.fr"
   },
   {
@@ -23178,14 +21554,6 @@
   {
     "count": 2,
     "hostname": "www.nissan.co.th"
-  },
-  {
-    "count": 2,
-    "hostname": "www.office.eco.ku.ac.th"
-  },
-  {
-    "count": 2,
-    "hostname": "www.osc.src.ku.ac.th"
   },
   {
     "count": 2,
@@ -23201,19 +21569,7 @@
   },
   {
     "count": 2,
-    "hostname": "www.polsci.flas.kps.ku.ac.th"
-  },
-  {
-    "count": 2,
     "hostname": "www.prd.go.th"
-  },
-  {
-    "count": 2,
-    "hostname": "www.property.ku.ac.th"
-  },
-  {
-    "count": 2,
-    "hostname": "www.researchconference.kps.ku.ac.th"
   },
   {
     "count": 2,
@@ -23249,15 +21605,7 @@
   },
   {
     "count": 2,
-    "hostname": "www.sinin.kps.ku.ac.th"
-  },
-  {
-    "count": 2,
     "hostname": "www.snapengage.com"
-  },
-  {
-    "count": 2,
-    "hostname": "www.soiltest-ku.agr.ku.ac.th"
   },
   {
     "count": 2,
@@ -23274,10 +21622,6 @@
   {
     "count": 2,
     "hostname": "www.starvision.in.th"
-  },
-  {
-    "count": 2,
-    "hostname": "www.stat.sci.ku.ac.th"
   },
   {
     "count": 2,
@@ -23398,10 +21742,6 @@
   {
     "count": 2,
     "hostname": "www.test17.tht.in"
-  },
-  {
-    "count": 2,
-    "hostname": "www.t-fern.forest.ku.ac.th"
   },
   {
     "count": 2,
@@ -23978,10 +22318,6 @@
   {
     "count": 2,
     "hostname": "www.tippawankennel.com"
-  },
-  {
-    "count": 2,
-    "hostname": "www.tjf.forest.ku.ac.th"
   },
   {
     "count": 2,
@@ -26029,10 +24365,6 @@
   },
   {
     "count": 2,
-    "hostname": "zmirror."
-  },
-  {
-    "count": 2,
     "hostname": "zmy1810.exteen.com"
   },
   {
@@ -26082,10 +24414,6 @@
   {
     "count": 2,
     "hostname": "zoneneepejong.exteen.com"
-  },
-  {
-    "count": 2,
-    "hostname": "zoo.sci.ku.ac.th"
   },
   {
     "count": 2,
@@ -26170,38 +24498,6 @@
   {
     "count": 3,
     "hostname": "153.254.86.139:80"
-  },
-  {
-    "count": 3,
-    "hostname": "158.108.102.16"
-  },
-  {
-    "count": 3,
-    "hostname": "158.108.110.205"
-  },
-  {
-    "count": 3,
-    "hostname": "158.108.219.22"
-  },
-  {
-    "count": 3,
-    "hostname": "158.108.68.25"
-  },
-  {
-    "count": 3,
-    "hostname": "158.108.80.14"
-  },
-  {
-    "count": 3,
-    "hostname": "158.108.81.17"
-  },
-  {
-    "count": 3,
-    "hostname": "158.108.83.4"
-  },
-  {
-    "count": 3,
-    "hostname": "158.108.94.117"
   },
   {
     "count": 3,
@@ -26337,10 +24633,6 @@
   },
   {
     "count": 3,
-    "hostname": "academicservice.human.ku.ac.th"
-  },
-  {
-    "count": 3,
     "hostname": "accounts-cdn.9gag.com"
   },
   {
@@ -26405,23 +24697,11 @@
   },
   {
     "count": 3,
-    "hostname": "agri.eco.ku.ac.th"
-  },
-  {
-    "count": 3,
-    "hostname": "agscij.agr.ku.ac.th"
-  },
-  {
-    "count": 3,
     "hostname": "ak-ns.sascdn.com"
   },
   {
     "count": 3,
     "hostname": "allplayer.tk"
-  },
-  {
-    "count": 3,
-    "hostname": "alumni.forest.ku.ac.th"
   },
   {
     "count": 3,
@@ -26566,10 +24846,6 @@
   {
     "count": 3,
     "hostname": "avaoi.com"
-  },
-  {
-    "count": 3,
-    "hostname": "av.eto.ku.ac.th"
   },
   {
     "count": 3,
@@ -26773,10 +25049,6 @@
   },
   {
     "count": 3,
-    "hostname": "cpeg.cpe.ku.ac.th"
-  },
-  {
-    "count": 3,
     "hostname": "crossmark.crossref.org"
   },
   {
@@ -26897,10 +25169,6 @@
   },
   {
     "count": 3,
-    "hostname": "emediacenter.edu.ku.ac.th"
-  },
-  {
-    "count": 3,
     "hostname": "emupdate.avast.com"
   },
   {
@@ -26913,15 +25181,7 @@
   },
   {
     "count": 3,
-    "hostname": "ento.agr.ku.ac.th"
-  },
-  {
-    "count": 3,
     "hostname": "error404.000webhost.com"
-  },
-  {
-    "count": 3,
-    "hostname": "esd.psd.kps.ku.ac.th"
   },
   {
     "count": 3,
@@ -26969,10 +25229,6 @@
   },
   {
     "count": 3,
-    "hostname": "fic.ifrpd.ku.ac.th"
-  },
-  {
-    "count": 3,
     "hostname": "files.acompli.net"
   },
   {
@@ -26993,10 +25249,6 @@
   },
   {
     "count": 3,
-    "hostname": "forest-admin.forest.ku.ac.th"
-  },
-  {
-    "count": 3,
     "hostname": "fourdesire.helpshift.com"
   },
   {
@@ -27006,14 +25258,6 @@
   {
     "count": 3,
     "hostname": "fpdownload.macromedia.com"
-  },
-  {
-    "count": 3,
-    "hostname": "fph.csc.ku.ac.th"
-  },
-  {
-    "count": 3,
-    "hostname": "frc.forest.ku.ac.th"
   },
   {
     "count": 3,
@@ -27077,10 +25321,6 @@
   },
   {
     "count": 3,
-    "hostname": "grad.ku.ac.th"
-  },
-  {
-    "count": 3,
     "hostname": "gsp51-ssl.ls.apple.com"
   },
   {
@@ -27098,10 +25338,6 @@
   {
     "count": 3,
     "hostname": "heaven16.spankbang.com:80"
-  },
-  {
-    "count": 3,
-    "hostname": "history.soc.ku.ac.th"
   },
   {
     "count": 3,
@@ -27281,14 +25517,6 @@
   },
   {
     "count": 3,
-    "hostname": "ku-online.ku.ac.th"
-  },
-  {
-    "count": 3,
-    "hostname": "kutrip.mikelab.net"
-  },
-  {
-    "count": 3,
     "hostname": "layers.isu.pub"
   },
   {
@@ -27309,15 +25537,7 @@
   },
   {
     "count": 3,
-    "hostname": "lib.kps.ku.ac.th"
-  },
-  {
-    "count": 3,
     "hostname": "line.me"
-  },
-  {
-    "count": 3,
-    "hostname": "live.ku.ac.th"
   },
   {
     "count": 3,
@@ -27338,10 +25558,6 @@
   {
     "count": 3,
     "hostname": "lyrics.gomlab.com"
-  },
-  {
-    "count": 3,
-    "hostname": "marketing.bus.ku.ac.th"
   },
   {
     "count": 3,
@@ -27385,19 +25601,7 @@
   },
   {
     "count": 3,
-    "hostname": "mfpe.eng.ku.ac.th"
-  },
-  {
-    "count": 3,
     "hostname": "m.gangzabaaball.com"
-  },
-  {
-    "count": 3,
-    "hostname": "mic.eng.ku.ac.th"
-  },
-  {
-    "count": 3,
-    "hostname": "mike.cpe.ku.ac.th"
   },
   {
     "count": 3,
@@ -27414,10 +25618,6 @@
   {
     "count": 3,
     "hostname": "mirrors.sohu.com"
-  },
-  {
-    "count": 3,
-    "hostname": "misreg.csc.ku.ac.th"
   },
   {
     "count": 3,
@@ -27490,10 +25690,6 @@
   {
     "count": 3,
     "hostname": "ng-tg-notice.gameitop.com"
-  },
-  {
-    "count": 3,
-    "hostname": "nisitmis.csc.ku.ac.th"
   },
   {
     "count": 3,
@@ -27753,10 +25949,6 @@
   },
   {
     "count": 3,
-    "hostname": "philos-reli.human.ku.ac.th"
-  },
-  {
-    "count": 3,
     "hostname": "phimheo.net"
   },
   {
@@ -27801,10 +25993,6 @@
   },
   {
     "count": 3,
-    "hostname": "portal.ku.ac.th"
-  },
-  {
-    "count": 3,
     "hostname": "prod9-files.acompli.net"
   },
   {
@@ -27818,14 +26006,6 @@
   {
     "count": 3,
     "hostname": "profile.adkmob.com"
-  },
-  {
-    "count": 3,
-    "hostname": "programming.cpe.ku.ac.th"
-  },
-  {
-    "count": 3,
-    "hostname": "psreview.soc.ku.ac.th"
   },
   {
     "count": 3,
@@ -27949,10 +26129,6 @@
   },
   {
     "count": 3,
-    "hostname": "resource.lib.ku.ac.th"
-  },
-  {
-    "count": 3,
     "hostname": "resource.yume100.in.th"
   },
   {
@@ -28009,15 +26185,7 @@
   },
   {
     "count": 3,
-    "hostname": "safetybio.agri.kps.ku.ac.th"
-  },
-  {
-    "count": 3,
     "hostname": "sc.iasds01.com"
-  },
-  {
-    "count": 3,
-    "hostname": "sci.src.ku.ac.th"
   },
   {
     "count": 3,
@@ -28054,10 +26222,6 @@
   {
     "count": 3,
     "hostname": "sdl.lnwstat.com"
-  },
-  {
-    "count": 3,
-    "hostname": "seas.soc.ku.ac.th"
   },
   {
     "count": 3,
@@ -28277,10 +26441,6 @@
   },
   {
     "count": 3,
-    "hostname": "tech4farmerschallenge.ku.ac.th"
-  },
-  {
-    "count": 3,
     "hostname": "templateservice.office.com"
   },
   {
@@ -28326,10 +26486,6 @@
   {
     "count": 3,
     "hostname": "tmfkuesmlpto.com"
-  },
-  {
-    "count": 3,
-    "hostname": "tm.human.ku.ac.th"
   },
   {
     "count": 3,
@@ -28489,10 +26645,6 @@
   },
   {
     "count": 3,
-    "hostname": "vit.src.ku.ac.th"
-  },
-  {
-    "count": 3,
     "hostname": "vpaid.pubmatic.com"
   },
   {
@@ -28549,10 +26701,6 @@
   },
   {
     "count": 3,
-    "hostname": "www2.grad.ku.ac.th"
-  },
-  {
-    "count": 3,
     "hostname": "www3.mampost.com"
   },
   {
@@ -28573,18 +26721,6 @@
   },
   {
     "count": 3,
-    "hostname": "www.ae.eng.kps.ku.ac.th"
-  },
-  {
-    "count": 3,
-    "hostname": "www.aiip.agro.ku.ac.th"
-  },
-  {
-    "count": 3,
-    "hostname": "www.annualconference.ku.ac.th"
-  },
-  {
-    "count": 3,
     "hostname": "www.autocadws.com"
   },
   {
@@ -28593,27 +26729,11 @@
   },
   {
     "count": 3,
-    "hostname": "www.cacs.vet.ku.ac.th"
-  },
-  {
-    "count": 3,
     "hostname": "www.crewsociety.com"
   },
   {
     "count": 3,
-    "hostname": "www.cyberlab.lh1.ku.ac.th"
-  },
-  {
-    "count": 3,
     "hostname": "www.dnp.go.th"
-  },
-  {
-    "count": 3,
-    "hostname": "www.eto.kps.ku.ac.th"
-  },
-  {
-    "count": 3,
-    "hostname": "www.gad.ku.ac.th"
   },
   {
     "count": 3,
@@ -28645,19 +26765,11 @@
   },
   {
     "count": 3,
-    "hostname": "www.hum.ku.ac.th"
-  },
-  {
-    "count": 3,
     "hostname": "www.imdb.com"
   },
   {
     "count": 3,
     "hostname": "www.intechnical.site"
-  },
-  {
-    "count": 3,
-    "hostname": "www.itiche2015.eng.ku.ac.th"
   },
   {
     "count": 3,
@@ -28681,19 +26793,11 @@
   },
   {
     "count": 3,
-    "hostname": "www.kucon.lib.ku.ac.th"
-  },
-  {
-    "count": 3,
     "hostname": "www.leanplum.com"
   },
   {
     "count": 3,
     "hostname": "www.lifebuzz.com"
-  },
-  {
-    "count": 3,
-    "hostname": "www.ling.human.ku.ac.th"
   },
   {
     "count": 3,
@@ -28741,10 +26845,6 @@
   },
   {
     "count": 3,
-    "hostname": "www.pdmss.agro.ku.ac.th"
-  },
-  {
-    "count": 3,
     "hostname": "www.piriform.com"
   },
   {
@@ -28753,15 +26853,7 @@
   },
   {
     "count": 3,
-    "hostname": "www.qa.ku.ac.th"
-  },
-  {
-    "count": 3,
     "hostname": "www.safeguardforyou.com"
-  },
-  {
-    "count": 3,
-    "hostname": "www.sbc.ku.ac.th"
   },
   {
     "count": 3,
@@ -30585,14 +28677,6 @@
   },
   {
     "count": 4,
-    "hostname": "158.108.102.10"
-  },
-  {
-    "count": 4,
-    "hostname": "158.108.44.31"
-  },
-  {
-    "count": 4,
     "hostname": "162.254.193.11:80"
   },
   {
@@ -30681,10 +28765,6 @@
   },
   {
     "count": 4,
-    "hostname": "acc3d.ku.ac.th"
-  },
-  {
-    "count": 4,
     "hostname": "ad"
   },
   {
@@ -30698,10 +28778,6 @@
   {
     "count": 4,
     "hostname": "adlog.flurry.com"
-  },
-  {
-    "count": 4,
-    "hostname": "admin.forest.ku.ac.th"
   },
   {
     "count": 4,
@@ -30749,10 +28825,6 @@
   },
   {
     "count": 4,
-    "hostname": "agext.agri.kps.ku.ac.th"
-  },
-  {
-    "count": 4,
     "hostname": "albert.apple.com"
   },
   {
@@ -30762,10 +28834,6 @@
   {
     "count": 4,
     "hostname": "analytics.app-adforce.jp"
-  },
-  {
-    "count": 4,
-    "hostname": "annualconference.ku.ac.th"
   },
   {
     "count": 4,
@@ -30818,14 +28886,6 @@
   {
     "count": 4,
     "hostname": "ap-southeast-1.dc.ads.linkedin.com"
-  },
-  {
-    "count": 4,
-    "hostname": "archives.psd.ku.ac.th"
-  },
-  {
-    "count": 4,
-    "hostname": "arc.src.ku.ac.th"
   },
   {
     "count": 4,
@@ -31053,10 +29113,6 @@
   },
   {
     "count": 4,
-    "hostname": "cs.sci.ku.ac.th"
-  },
-  {
-    "count": 4,
     "hostname": "ctf.download.avg.com"
   },
   {
@@ -31133,19 +29189,11 @@
   },
   {
     "count": 4,
-    "hostname": "edtechelearning.edu.ku.ac.th"
-  },
-  {
-    "count": 4,
     "hostname": "eltrack.pro"
   },
   {
     "count": 4,
     "hostname": "engine.sponsorpay.com"
-  },
-  {
-    "count": 4,
-    "hostname": "envi.ku.ac.th"
   },
   {
     "count": 4,
@@ -31174,14 +29222,6 @@
   {
     "count": 4,
     "hostname": "feeds.feedburner.com"
-  },
-  {
-    "count": 4,
-    "hostname": "fe.eng.kps.ku.ac.th"
-  },
-  {
-    "count": 4,
-    "hostname": "fna.csc.ku.ac.th"
   },
   {
     "count": 4,
@@ -31233,10 +29273,6 @@
   },
   {
     "count": 4,
-    "hostname": "give.cpe.ku.ac.th"
-  },
-  {
-    "count": 4,
     "hostname": "glus-st.mthcdn.com"
   },
   {
@@ -31281,10 +29317,6 @@
   },
   {
     "count": 4,
-    "hostname": "hort.ku.ac.th"
-  },
-  {
-    "count": 4,
     "hostname": "http-test1.hola.org"
   },
   {
@@ -31321,10 +29353,6 @@
   },
   {
     "count": 4,
-    "hostname": "ieinter.eng.ku.ac.th"
-  },
-  {
-    "count": 4,
     "hostname": "i.kziplab.com"
   },
   {
@@ -31354,10 +29382,6 @@
   {
     "count": 4,
     "hostname": "inst.platform.bing.com"
-  },
-  {
-    "count": 4,
-    "hostname": "interprogram.ku.ac.th"
   },
   {
     "count": 4,
@@ -31397,10 +29421,6 @@
   },
   {
     "count": 4,
-    "hostname": "it.flas.kps.ku.ac.th"
-  },
-  {
-    "count": 4,
     "hostname": "jav4you.online"
   },
   {
@@ -31425,27 +29445,11 @@
   },
   {
     "count": 4,
-    "hostname": "kbs.bus.ku.ac.th"
-  },
-  {
-    "count": 4,
     "hostname": "kinesis.us-west-2.amazonaws.com"
   },
   {
     "count": 4,
     "hostname": "k.intellitxt.com"
-  },
-  {
-    "count": 4,
-    "hostname": "kupresident13.ku.ac.th"
-  },
-  {
-    "count": 4,
-    "hostname": "ku-sall.human.ku.ac.th"
-  },
-  {
-    "count": 4,
-    "hostname": "ku.th"
   },
   {
     "count": 4,
@@ -31541,10 +29545,6 @@
   },
   {
     "count": 4,
-    "hostname": "naist.cpe.ku.ac.th:8000"
-  },
-  {
-    "count": 4,
     "hostname": "nattawut.elite-ssc.com"
   },
   {
@@ -31574,10 +29574,6 @@
   {
     "count": 4,
     "hostname": "nmanwww.kinoteka.ba"
-  },
-  {
-    "count": 4,
-    "hostname": "Nontri.ku.ac.th"
   },
   {
     "count": 4,
@@ -31909,10 +29905,6 @@
   },
   {
     "count": 4,
-    "hostname": "quota.forest.ku.ac.th"
-  },
-  {
-    "count": 4,
     "hostname": "r3---sn-npoe7n7y.googlevideo.com"
   },
   {
@@ -31922,10 +29914,6 @@
   {
     "count": 4,
     "hostname": "referrer.disqus.com"
-  },
-  {
-    "count": 4,
-    "hostname": "reg3.src.ku.ac.th"
   },
   {
     "count": 4,
@@ -31946,10 +29934,6 @@
   {
     "count": 4,
     "hostname": "samsungvuiasr.vlingo.com"
-  },
-  {
-    "count": 4,
-    "hostname": "satitapp.kus.ku.ac.th"
   },
   {
     "count": 4,
@@ -31986,10 +29970,6 @@
   {
     "count": 4,
     "hostname": "sebz.goforandroid.com"
-  },
-  {
-    "count": 4,
-    "hostname": "secretary.eng.ku.ac.th"
   },
   {
     "count": 4,
@@ -32273,10 +30253,6 @@
   },
   {
     "count": 4,
-    "hostname": "wata.eng.ku.ac.th"
-  },
-  {
-    "count": 4,
     "hostname": "watchmygirlfriend.gfarchive.com"
   },
   {
@@ -32313,10 +30289,6 @@
   },
   {
     "count": 4,
-    "hostname": "www.acct.bus.ku.ac.th"
-  },
-  {
-    "count": 4,
     "hostname": "www.advice.co.th"
   },
   {
@@ -32329,31 +30301,11 @@
   },
   {
     "count": 4,
-    "hostname": "www.biodiesel.rdi.ku.ac.th"
-  },
-  {
-    "count": 4,
     "hostname": "www.cabdirect.org"
   },
   {
     "count": 4,
-    "hostname": "www.clinicssi.edu.ku.ac.th"
-  },
-  {
-    "count": 4,
-    "hostname": "www.cpc.ku.ac.th"
-  },
-  {
-    "count": 4,
-    "hostname": "www.cpe.eng.kps.ku.ac.th"
-  },
-  {
-    "count": 4,
     "hostname": "www.dreamsearch.or.kr"
-  },
-  {
-    "count": 4,
-    "hostname": "www.eduserv.ku.ac.th"
   },
   {
     "count": 4,
@@ -32385,10 +30337,6 @@
   },
   {
     "count": 4,
-    "hostname": "www.ku-press.ku.ac.th"
-  },
-  {
-    "count": 4,
     "hostname": "www.la-suite-mobile.com"
   },
   {
@@ -32397,23 +30345,11 @@
   },
   {
     "count": 4,
-    "hostname": "www.mic.eng.ku.ac.th"
-  },
-  {
-    "count": 4,
     "hostname": "www.movie2free.com"
   },
   {
     "count": 4,
-    "hostname": "www.nec.psd.ku.ac.th"
-  },
-  {
-    "count": 4,
     "hostname": "www.paypalobjects.com"
-  },
-  {
-    "count": 4,
-    "hostname": "www.pirun.ku.ac.th"
   },
   {
     "count": 4,
@@ -33110,10 +31046,6 @@
   {
     "count": 4,
     "hostname": "www.venz.co.th"
-  },
-  {
-    "count": 4,
-    "hostname": "www.vet.kps.ku.ac.th"
   },
   {
     "count": 4,
@@ -34297,26 +32229,6 @@
   },
   {
     "count": 5,
-    "hostname": "158.108.199.6"
-  },
-  {
-    "count": 5,
-    "hostname": "158.108.250.138"
-  },
-  {
-    "count": 5,
-    "hostname": "158.108.252.14"
-  },
-  {
-    "count": 5,
-    "hostname": "158.108.80.13"
-  },
-  {
-    "count": 5,
-    "hostname": "158.108.80.5"
-  },
-  {
-    "count": 5,
     "hostname": "162.254.193.23:80"
   },
   {
@@ -34366,10 +32278,6 @@
   {
     "count": 5,
     "hostname": "abcerroramax-ns.servicebus.windows.net"
-  },
-  {
-    "count": 5,
-    "hostname": "acas.bus.ku.ac.th"
   },
   {
     "count": 5,
@@ -34485,10 +32393,6 @@
   },
   {
     "count": 5,
-    "hostname": "becon.eco.ku.ac.th"
-  },
-  {
-    "count": 5,
     "hostname": "boostercheck.garenanow.com"
   },
   {
@@ -34506,10 +32410,6 @@
   {
     "count": 5,
     "hostname": "cadlearning.blogspot.com"
-  },
-  {
-    "count": 5,
-    "hostname": "ca.ku.ac.th"
   },
   {
     "count": 5,
@@ -34633,10 +32533,6 @@
   },
   {
     "count": 5,
-    "hostname": "coop.eco.ku.ac.th"
-  },
-  {
-    "count": 5,
     "hostname": "corp.wacoal.co.th"
   },
   {
@@ -34678,10 +32574,6 @@
   {
     "count": 5,
     "hostname": "dabai.pc.ucweb.com"
-  },
-  {
-    "count": 5,
-    "hostname": "dairy.ku.ac.th"
   },
   {
     "count": 5,
@@ -34749,19 +32641,7 @@
   },
   {
     "count": 5,
-    "hostname": "eassess.ku.ac.th"
-  },
-  {
-    "count": 5,
     "hostname": "ebook.dokusho-ojikan.jp"
-  },
-  {
-    "count": 5,
-    "hostname": "eco.ku.ac.th"
-  },
-  {
-    "count": 5,
-    "hostname": "ee.ku.ac.th"
   },
   {
     "count": 5,
@@ -34773,19 +32653,7 @@
   },
   {
     "count": 5,
-    "hostname": "eng.src.ku.ac.th"
-  },
-  {
-    "count": 5,
     "hostname": "enl.ddd2.zhuoyuechenxing.com:9575"
-  },
-  {
-    "count": 5,
-    "hostname": "eoffice.ku.ac.th"
-  },
-  {
-    "count": 5,
-    "hostname": "eoffice.rdi.ku.ac.th"
   },
   {
     "count": 5,
@@ -34818,10 +32686,6 @@
   {
     "count": 5,
     "hostname": "flow.backupgrid.net"
-  },
-  {
-    "count": 5,
-    "hostname": "forensicscience.flas.kps.ku.ac.th"
   },
   {
     "count": 5,
@@ -34865,10 +32729,6 @@
   },
   {
     "count": 5,
-    "hostname": "halaldb.ifrpd.ku.ac.th"
-  },
-  {
-    "count": 5,
     "hostname": "happyclick.mobi"
   },
   {
@@ -34909,10 +32769,6 @@
   },
   {
     "count": 5,
-    "hostname": "ie.eng.ku.ac.th"
-  },
-  {
-    "count": 5,
     "hostname": "i.kpzip.com"
   },
   {
@@ -34937,23 +32793,11 @@
   },
   {
     "count": 5,
-    "hostname": "information.soc.ku.ac.th"
-  },
-  {
-    "count": 5,
-    "hostname": "innovation.forest.ku.ac.th"
-  },
-  {
-    "count": 5,
     "hostname": "instagram.fbkk1-2.fna.fbcdn.net"
   },
   {
     "count": 5,
     "hostname": "i.socdm.com"
-  },
-  {
-    "count": 5,
-    "hostname": "it.vit.src.ku.ac.th"
   },
   {
     "count": 5,
@@ -34966,10 +32810,6 @@
   {
     "count": 5,
     "hostname": "js.fout.jp"
-  },
-  {
-    "count": 5,
-    "hostname": "kasetsartjnatsci.kasetsart.org"
   },
   {
     "count": 5,
@@ -34986,10 +32826,6 @@
   {
     "count": 5,
     "hostname": "k.streamrail.com"
-  },
-  {
-    "count": 5,
-    "hostname": "ku-work.ku.ac.th"
   },
   {
     "count": 5,
@@ -35041,10 +32877,6 @@
   },
   {
     "count": 5,
-    "hostname": "logs.ku.ac.th"
-  },
-  {
-    "count": 5,
     "hostname": "ls.srvcs.tumblr.com"
   },
   {
@@ -35082,10 +32914,6 @@
   {
     "count": 5,
     "hostname": "metrics.brightcov"
-  },
-  {
-    "count": 5,
-    "hostname": "micro.flas.kps.ku.ac.th"
   },
   {
     "count": 5,
@@ -35138,10 +32966,6 @@
   {
     "count": 5,
     "hostname": "nvirginia-my.mobfox.com"
-  },
-  {
-    "count": 5,
-    "hostname": "office.eco.ku.ac.th"
   },
   {
     "count": 5,
@@ -35329,10 +33153,6 @@
   },
   {
     "count": 5,
-    "hostname": "pdmss.agro.ku.ac.th"
-  },
-  {
-    "count": 5,
     "hostname": "pd-st.itunes.apple.com"
   },
   {
@@ -35342,10 +33162,6 @@
   {
     "count": 5,
     "hostname": "pg-story.appspot.com"
-  },
-  {
-    "count": 5,
-    "hostname": "phd-econ.eco.ku.ac.th"
   },
   {
     "count": 5,
@@ -35502,10 +33318,6 @@
   {
     "count": 5,
     "hostname": "sp.piacy.com"
-  },
-  {
-    "count": 5,
-    "hostname": "sps.kps.ku.ac.th"
   },
   {
     "count": 5,
@@ -35709,10 +33521,6 @@
   },
   {
     "count": 5,
-    "hostname": "vpn.ku.ac.th"
-  },
-  {
-    "count": 5,
     "hostname": "weatherlive.info"
   },
   {
@@ -35749,10 +33557,6 @@
   },
   {
     "count": 5,
-    "hostname": "www.arch.ku.ac.th"
-  },
-  {
-    "count": 5,
     "hostname": "www.bestmovie-hd.com"
   },
   {
@@ -35762,10 +33566,6 @@
   {
     "count": 5,
     "hostname": "www.di-arezzo.com"
-  },
-  {
-    "count": 5,
-    "hostname": "www.eve.eng.ku.ac.th"
   },
   {
     "count": 5,
@@ -35785,19 +33585,11 @@
   },
   {
     "count": 5,
-    "hostname": "www.homec.agr.ku.ac.th"
-  },
-  {
-    "count": 5,
     "hostname": "www.ibook.info"
   },
   {
     "count": 5,
     "hostname": "www.instagram.com"
-  },
-  {
-    "count": 5,
-    "hostname": "www.irre.ku.ac.th"
   },
   {
     "count": 5,
@@ -35813,23 +33605,11 @@
   },
   {
     "count": 5,
-    "hostname": "www.newgrad.sa.ku.ac.th"
-  },
-  {
-    "count": 5,
     "hostname": "www.playlol.in.th"
   },
   {
     "count": 5,
-    "hostname": "www.pr.ku.ac.th"
-  },
-  {
-    "count": 5,
     "hostname": "www.reliablesever.online"
-  },
-  {
-    "count": 5,
-    "hostname": "www.sa.ku.ac.th"
   },
   {
     "count": 5,
@@ -36434,10 +34214,6 @@
   {
     "count": 5,
     "hostname": "www.veedvil.com"
-  },
-  {
-    "count": 5,
-    "hostname": "www.vehicle.ku.ac.th"
   },
   {
     "count": 5,
@@ -37453,22 +35229,6 @@
   },
   {
     "count": 6,
-    "hostname": "158.108.196.34"
-  },
-  {
-    "count": 6,
-    "hostname": "158.108.196.58"
-  },
-  {
-    "count": 6,
-    "hostname": "158.108.203.7"
-  },
-  {
-    "count": 6,
-    "hostname": "158.108.54.4"
-  },
-  {
-    "count": 6,
     "hostname": "183.131.85.6:9080"
   },
   {
@@ -37665,14 +35425,6 @@
   },
   {
     "count": 6,
-    "hostname": "council.ku.ac.th"
-  },
-  {
-    "count": 6,
-    "hostname": "cpeg2.cpe.ku.ac.th"
-  },
-  {
-    "count": 6,
     "hostname": "cs.adingo.jp"
   },
   {
@@ -37745,10 +35497,6 @@
   },
   {
     "count": 6,
-    "hostname": "ess.eco.ku.ac.th"
-  },
-  {
-    "count": 6,
     "hostname": "event.123dapp.com"
   },
   {
@@ -37810,10 +35558,6 @@
   {
     "count": 6,
     "hostname": "goshujin.tk"
-  },
-  {
-    "count": 6,
-    "hostname": "greencampus.ku.ac.th"
   },
   {
     "count": 6,
@@ -37898,10 +35642,6 @@
   {
     "count": 6,
     "hostname": "ld-2.itunes.apple.com"
-  },
-  {
-    "count": 6,
-    "hostname": "legal.psd.ku.ac.th"
   },
   {
     "count": 6,
@@ -38109,10 +35849,6 @@
   },
   {
     "count": 6,
-    "hostname": "physics.sci.ku.ac.th"
-  },
-  {
-    "count": 6,
     "hostname": "piacy.com"
   },
   {
@@ -38281,10 +36017,6 @@
   },
   {
     "count": 6,
-    "hostname": "sp.ku.ac.th"
-  },
-  {
-    "count": 6,
     "hostname": "sso.trueid.net"
   },
   {
@@ -38441,10 +36173,6 @@
   },
   {
     "count": 6,
-    "hostname": "www.ase.eng.ku.ac.th"
-  },
-  {
-    "count": 6,
     "hostname": "www.bugaboo.tv"
   },
   {
@@ -38458,18 +36186,6 @@
   {
     "count": 6,
     "hostname": "www.dvdgameonline.com"
-  },
-  {
-    "count": 6,
-    "hostname": "www.edu.kps.ku.ac.th"
-  },
-  {
-    "count": 6,
-    "hostname": "www.emediacenter.edu.ku.ac.th"
-  },
-  {
-    "count": 6,
-    "hostname": "www.eng.kps.ku.ac.th"
   },
   {
     "count": 6,
@@ -38493,10 +36209,6 @@
   },
   {
     "count": 6,
-    "hostname": "www.kus.ku.ac.th"
-  },
-  {
-    "count": 6,
     "hostname": "www.mx7.com"
   },
   {
@@ -38509,23 +36221,11 @@
   },
   {
     "count": 6,
-    "hostname": "www.safety.eng.ku.ac.th"
-  },
-  {
-    "count": 6,
     "hostname": "www.semecoelectric.com"
   },
   {
     "count": 6,
     "hostname": "www.slaming.top"
-  },
-  {
-    "count": 6,
-    "hostname": "www.sp.ku.ac.th"
-  },
-  {
-    "count": 6,
-    "hostname": "www.sps.kps.ku.ac.th"
   },
   {
     "count": 6,
@@ -40057,14 +37757,6 @@
   },
   {
     "count": 7,
-    "hostname": "158.108.8.148"
-  },
-  {
-    "count": 7,
-    "hostname": "158.108.97.12:8081"
-  },
-  {
-    "count": 7,
     "hostname": "15.taboola.com"
   },
   {
@@ -40102,10 +37794,6 @@
   {
     "count": 7,
     "hostname": "ads.juicyads.com"
-  },
-  {
-    "count": 7,
-    "hostname": "aginc.lib.ku.ac.th"
   },
   {
     "count": 7,
@@ -40273,10 +37961,6 @@
   },
   {
     "count": 7,
-    "hostname": "east.human.ku.ac.th"
-  },
-  {
-    "count": 7,
     "hostname": "ebizmba.ebizmbainc.netdna-cdn.com"
   },
   {
@@ -40286,10 +37970,6 @@
   {
     "count": 7,
     "hostname": "edge.quantserve.com"
-  },
-  {
-    "count": 7,
-    "hostname": "eeba.eco.ku.ac.th"
   },
   {
     "count": 7,
@@ -40385,10 +38065,6 @@
   },
   {
     "count": 7,
-    "hostname": "info.ms.src.ku.ac.th"
-  },
-  {
-    "count": 7,
     "hostname": "instagram.fbkk2-2.fna.fbcdn.net"
   },
   {
@@ -40421,14 +38097,6 @@
   },
   {
     "count": 7,
-    "hostname": "kapi.ku.ac.th"
-  },
-  {
-    "count": 7,
-    "hostname": "kucon.lib.ku.ac.th"
-  },
-  {
-    "count": 7,
     "hostname": "l.a.mobimagic.com"
   },
   {
@@ -40442,10 +38110,6 @@
   {
     "count": 7,
     "hostname": "liveupdate01s.asus.com"
-  },
-  {
-    "count": 7,
-    "hostname": "lms.ku.ac.th"
   },
   {
     "count": 7,
@@ -40641,18 +38305,6 @@
   },
   {
     "count": 7,
-    "hostname": "rdi.ku.ac.th"
-  },
-  {
-    "count": 7,
-    "hostname": "reg2.src.ku.ac.th"
-  },
-  {
-    "count": 7,
-    "hostname": "researchconference.kps.ku.ac.th"
-  },
-  {
-    "count": 7,
     "hostname": "retargeting.inner-active.mobi:8080"
   },
   {
@@ -40701,10 +38353,6 @@
   },
   {
     "count": 7,
-    "hostname": "student.ku.ac.th"
-  },
-  {
-    "count": 7,
     "hostname": "s.update.dailymotion.com"
   },
   {
@@ -40742,10 +38390,6 @@
   {
     "count": 7,
     "hostname": "telecommand.telemetry.microsoft.com"
-  },
-  {
-    "count": 7,
-    "hostname": "thaiagris.lib.ku.ac.th"
   },
   {
     "count": 7,
@@ -40837,10 +38481,6 @@
   },
   {
     "count": 7,
-    "hostname": "www.agri.kps.ku.ac.th"
-  },
-  {
-    "count": 7,
     "hostname": "www.anime-sugoi.com"
   },
   {
@@ -40889,19 +38529,11 @@
   },
   {
     "count": 7,
-    "hostname": "www.ifrpd.ku.ac.th"
-  },
-  {
-    "count": 7,
     "hostname": "www.innnews.co.th"
   },
   {
     "count": 7,
     "hostname": "www.itools.info"
-  },
-  {
-    "count": 7,
-    "hostname": "www.kps.ku.ac.th"
   },
   {
     "count": 7,
@@ -42213,14 +39845,6 @@
   },
   {
     "count": 8,
-    "hostname": "158.108.180.3"
-  },
-  {
-    "count": 8,
-    "hostname": "158.108.220.13"
-  },
-  {
-    "count": 8,
     "hostname": "203.154.179.25"
   },
   {
@@ -42302,10 +39926,6 @@
   {
     "count": 8,
     "hostname": "bbtbfr.pw"
-  },
-  {
-    "count": 8,
-    "hostname": "bioff.forest.ku.ac.th"
   },
   {
     "count": 8,
@@ -42497,18 +40117,6 @@
   },
   {
     "count": 8,
-    "hostname": "kucc28.ku.ac.th"
-  },
-  {
-    "count": 8,
-    "hostname": "kuhistory.ku.ac.th"
-  },
-  {
-    "count": 8,
-    "hostname": "kus.kps.ku.ac.th"
-  },
-  {
-    "count": 8,
     "hostname": "lg-growthy.line-apps.com"
   },
   {
@@ -42522,10 +40130,6 @@
   {
     "count": 8,
     "hostname": "lp.easygo99.com"
-  },
-  {
-    "count": 8,
-    "hostname": "mail.ku.ac.th"
   },
   {
     "count": 8,
@@ -42546,10 +40150,6 @@
   {
     "count": 8,
     "hostname": "mirrors.zju.edu.cn"
-  },
-  {
-    "count": 8,
-    "hostname": "misweb.csc.ku.ac.th"
   },
   {
     "count": 8,
@@ -42753,10 +40353,6 @@
   },
   {
     "count": 8,
-    "hostname": "service.ifrpd.ku.ac.th"
-  },
-  {
-    "count": 8,
     "hostname": "service.supercell.net"
   },
   {
@@ -42838,26 +40434,6 @@
   {
     "count": 8,
     "hostname": "www.blogblog.com"
-  },
-  {
-    "count": 8,
-    "hostname": "www.cab.ku.ac.th"
-  },
-  {
-    "count": 8,
-    "hostname": "www.cai.ku.ac.th"
-  },
-  {
-    "count": 8,
-    "hostname": "www.ce.eng.ku.ac.th"
-  },
-  {
-    "count": 8,
-    "hostname": "www.edu.ku.ac.th"
-  },
-  {
-    "count": 8,
-    "hostname": "www.kps-iged.psd.kps.ku.ac.th"
   },
   {
     "count": 8,
@@ -43953,14 +41529,6 @@
   },
   {
     "count": 9,
-    "hostname": "158.108.216.37"
-  },
-  {
-    "count": 9,
-    "hostname": "158.108.83.3"
-  },
-  {
-    "count": 9,
     "hostname": "203.154.179.69"
   },
   {
@@ -44145,10 +41713,6 @@
   },
   {
     "count": 9,
-    "hostname": "elab.cpe.ku.ac.th"
-  },
-  {
-    "count": 9,
     "hostname": "error.facebook.com"
   },
   {
@@ -44174,10 +41738,6 @@
   {
     "count": 9,
     "hostname": "galleryapi.micloud.xiaomi.net"
-  },
-  {
-    "count": 9,
-    "hostname": "geo.soc.ku.ac.th"
   },
   {
     "count": 9,
@@ -44225,19 +41785,11 @@
   },
   {
     "count": 9,
-    "hostname": "jasmine.kps.ku.ac.th"
-  },
-  {
-    "count": 9,
     "hostname": "javhihi.com"
   },
   {
     "count": 9,
     "hostname": "jsc.mgid.com"
-  },
-  {
-    "count": 9,
-    "hostname": "ku-vim.vet.ku.ac.th"
   },
   {
     "count": 9,
@@ -44261,10 +41813,6 @@
   },
   {
     "count": 9,
-    "hostname": "mgt.bus.ku.ac.th"
-  },
-  {
-    "count": 9,
     "hostname": "m.manager.co.th"
   },
   {
@@ -44277,19 +41825,11 @@
   },
   {
     "count": 9,
-    "hostname": "newsty.cpe.ku.ac.th"
-  },
-  {
-    "count": 9,
     "hostname": "nm16a.prod.fuel.ddns.ea.com"
   },
   {
     "count": 9,
     "hostname": "obs.line-scdn.net"
-  },
-  {
-    "count": 9,
-    "hostname": "optd.project.ku.ac.th"
   },
   {
     "count": 9,
@@ -44377,10 +41917,6 @@
   },
   {
     "count": 9,
-    "hostname": "portal.lib.ku.ac.th"
-  },
-  {
-    "count": 9,
     "hostname": "pre.glotgrx.com"
   },
   {
@@ -44394,10 +41930,6 @@
   {
     "count": 9,
     "hostname": "r1---sn-npoeen7d.googlevideo.com"
-  },
-  {
-    "count": 9,
-    "hostname": "research.ifrpd.ku.ac.th"
   },
   {
     "count": 9,
@@ -44525,10 +42057,6 @@
   },
   {
     "count": 9,
-    "hostname": "webregis.ku.ac.th"
-  },
-  {
-    "count": 9,
     "hostname": "welcome.brother.com"
   },
   {
@@ -44561,14 +42089,6 @@
   },
   {
     "count": 9,
-    "hostname": "www.cpe.ku.ac.th"
-  },
-  {
-    "count": 9,
-    "hostname": "www.cs.sci.ku.ac.th"
-  },
-  {
-    "count": 9,
     "hostname": "www.engtwt.info"
   },
   {
@@ -44586,10 +42106,6 @@
   {
     "count": 9,
     "hostname": "www.pdfzilla.com"
-  },
-  {
-    "count": 9,
-    "hostname": "www.soc.ku.ac.th"
   },
   {
     "count": 9,
@@ -45581,10 +43097,6 @@
   },
   {
     "count": 10,
-    "hostname": "158.108.94.54"
-  },
-  {
-    "count": 10,
     "hostname": "1-edge-chat.facebook.com"
   },
   {
@@ -45661,10 +43173,6 @@
   },
   {
     "count": 10,
-    "hostname": "ded.edu.kps.ku.ac.th"
-  },
-  {
-    "count": 10,
     "hostname": "dictionary.cambridge.org"
   },
   {
@@ -45689,23 +43197,11 @@
   },
   {
     "count": 10,
-    "hostname": "eng.kps.ku.ac.th"
-  },
-  {
-    "count": 10,
     "hostname": "events3alt.adcolony.com"
   },
   {
     "count": 10,
-    "hostname": "fam.csc.ku.ac.th"
-  },
-  {
-    "count": 10,
     "hostname": "fbcdn-profile-a.akamaihd.net"
-  },
-  {
-    "count": 10,
-    "hostname": "forest.ku.ac.th"
   },
   {
     "count": 10,
@@ -45745,10 +43241,6 @@
   },
   {
     "count": 10,
-    "hostname": "info.grad.ku.ac.th"
-  },
-  {
-    "count": 10,
     "hostname": "instagram.fbkk3-2.fna.fbcdn.net"
   },
   {
@@ -45758,14 +43250,6 @@
   {
     "count": 10,
     "hostname": "ip-api.com"
-  },
-  {
-    "count": 10,
-    "hostname": "iup.eng.ku.ac.th"
-  },
-  {
-    "count": 10,
-    "hostname": "ku.ac.th"
   },
   {
     "count": 10,
@@ -45869,10 +43353,6 @@
   },
   {
     "count": 10,
-    "hostname": "reg.src.ku.ac.th"
-  },
-  {
-    "count": 10,
     "hostname": "reporting.aatkit.com"
   },
   {
@@ -45902,10 +43382,6 @@
   {
     "count": 10,
     "hostname": "spdmg-backend2.i-mobile.co.jp"
-  },
-  {
-    "count": 10,
-    "hostname": "src.ku.ac.th"
   },
   {
     "count": 10,
@@ -46017,27 +43493,11 @@
   },
   {
     "count": 10,
-    "hostname": "www.mirror1.ku.ac.th"
-  },
-  {
-    "count": 10,
-    "hostname": "www.ms.src.ku.ac.th"
-  },
-  {
-    "count": 10,
     "hostname": "www.nongsl.com"
   },
   {
     "count": 10,
-    "hostname": "www.pe.eng.ku.ac.th"
-  },
-  {
-    "count": 10,
     "hostname": "www.proprofs.com"
-  },
-  {
-    "count": 10,
-    "hostname": "www.regis.ku.ac.th"
   },
   {
     "count": 10,
@@ -46717,10 +44177,6 @@
   },
   {
     "count": 11,
-    "hostname": "158.108.80.32"
-  },
-  {
-    "count": 11,
     "hostname": "203.154.179.58"
   },
   {
@@ -46853,10 +44309,6 @@
   },
   {
     "count": 11,
-    "hostname": "flas.ku.ac.th"
-  },
-  {
-    "count": 11,
     "hostname": "fp2.fsanook.com"
   },
   {
@@ -46913,14 +44365,6 @@
   },
   {
     "count": 11,
-    "hostname": "kuappstore.ku.ac.th"
-  },
-  {
-    "count": 11,
-    "hostname": "kus.ku.ac.th"
-  },
-  {
-    "count": 11,
     "hostname": "lcdn-locator.apple.com"
   },
   {
@@ -46934,10 +44378,6 @@
   {
     "count": 11,
     "hostname": "mail.www.vetlek.ru"
-  },
-  {
-    "count": 11,
-    "hostname": "map.ku.ac.th"
   },
   {
     "count": 11,
@@ -47093,14 +44533,6 @@
   },
   {
     "count": 11,
-    "hostname": "www.bus.ku.ac.th"
-  },
-  {
-    "count": 11,
-    "hostname": "www.fish.ku.ac.th"
-  },
-  {
-    "count": 11,
     "hostname": "www.fujicream.com"
   },
   {
@@ -47114,14 +44546,6 @@
   {
     "count": 11,
     "hostname": "www.iafd.com"
-  },
-  {
-    "count": 11,
-    "hostname": "www.inf.ku.ac.th"
-  },
-  {
-    "count": 11,
-    "hostname": "www.kimba.ku.ac.th"
   },
   {
     "count": 11,
@@ -47141,15 +44565,7 @@
   },
   {
     "count": 11,
-    "hostname": "www.mp.kus.ku.ac.th"
-  },
-  {
-    "count": 11,
     "hostname": "www.mygame.in.th"
-  },
-  {
-    "count": 11,
-    "hostname": "www.rilc.ku.ac.th"
   },
   {
     "count": 11,
@@ -47465,10 +44881,6 @@
   },
   {
     "count": 11,
-    "hostname": "www.vthh.vet.ku.ac.th"
-  },
-  {
-    "count": 11,
     "hostname": "www.vvg-vietnam.com"
   },
   {
@@ -47761,10 +45173,6 @@
   },
   {
     "count": 12,
-    "hostname": "158.108.55.248"
-  },
-  {
-    "count": 12,
     "hostname": "18xmov.com"
   },
   {
@@ -47833,15 +45241,7 @@
   },
   {
     "count": 12,
-    "hostname": "chem.flas.kps.ku.ac.th"
-  },
-  {
-    "count": 12,
     "hostname": "code.poptm.com"
-  },
-  {
-    "count": 12,
-    "hostname": "cpe.eng.kps.ku.ac.th"
   },
   {
     "count": 12,
@@ -47870,10 +45270,6 @@
   {
     "count": 12,
     "hostname": "garakuta-www.jugem.jp"
-  },
-  {
-    "count": 12,
-    "hostname": "grader.eng.src.ku.ac.th"
   },
   {
     "count": 12,
@@ -47945,10 +45341,6 @@
   },
   {
     "count": 12,
-    "hostname": "mat.eng.ku.ac.th"
-  },
-  {
-    "count": 12,
     "hostname": "m.chinapost.com.tw"
   },
   {
@@ -47962,10 +45354,6 @@
   {
     "count": 12,
     "hostname": "nuzvlmynt.net"
-  },
-  {
-    "count": 12,
-    "hostname": "ocs.ku.ac.th"
   },
   {
     "count": 12,
@@ -47994,14 +45382,6 @@
   {
     "count": 12,
     "hostname": "p64-ckdatabase.icloud.com"
-  },
-  {
-    "count": 12,
-    "hostname": "person.psd.kps.ku.ac.th"
-  },
-  {
-    "count": 12,
-    "hostname": "pr.ku.ac.th"
   },
   {
     "count": 12,
@@ -48118,10 +45498,6 @@
   {
     "count": 12,
     "hostname": "www.ipluszone.com"
-  },
-  {
-    "count": 12,
-    "hostname": "www.lib.kps.ku.ac.th"
   },
   {
     "count": 12,
@@ -48693,10 +46069,6 @@
   },
   {
     "count": 13,
-    "hostname": "fishbio.fish.ku.ac.th"
-  },
-  {
-    "count": 13,
     "hostname": "gcs-weather.garmin.com"
   },
   {
@@ -48730,10 +46102,6 @@
   {
     "count": 13,
     "hostname": "init.ess.apple.com"
-  },
-  {
-    "count": 13,
-    "hostname": "irre.ku.ac.th"
   },
   {
     "count": 13,
@@ -48869,10 +46237,6 @@
   },
   {
     "count": 13,
-    "hostname": "server.cpc.ku.ac.th"
-  },
-  {
-    "count": 13,
     "hostname": "static.ads-twitter.com"
   },
   {
@@ -48942,10 +46306,6 @@
   {
     "count": 13,
     "hostname": "www.dota2.com"
-  },
-  {
-    "count": 13,
-    "hostname": "www.flas.kps.ku.ac.th"
   },
   {
     "count": 13,
@@ -49110,10 +46470,6 @@
   {
     "count": 13,
     "hostname": "www.tsaclub.com"
-  },
-  {
-    "count": 13,
-    "hostname": "www.ttc.ifrpd.ku.ac.th"
   },
   {
     "count": 13,
@@ -49293,14 +46649,6 @@
   },
   {
     "count": 14,
-    "hostname": "158.108.110.14"
-  },
-  {
-    "count": 14,
-    "hostname": "158.108.196.40"
-  },
-  {
-    "count": 14,
     "hostname": "203.154.179.66"
   },
   {
@@ -49329,10 +46677,6 @@
   },
   {
     "count": 14,
-    "hostname": "admission.ku.ac.th"
-  },
-  {
-    "count": 14,
     "hostname": "ads.dek-d.com"
   },
   {
@@ -49350,10 +46694,6 @@
   {
     "count": 14,
     "hostname": "api.tinyhoneybee.com"
-  },
-  {
-    "count": 14,
-    "hostname": "archives.lib.ku.ac.th"
   },
   {
     "count": 14,
@@ -49405,10 +46745,6 @@
   },
   {
     "count": 14,
-    "hostname": "dsil.flas.kps.ku.ac.th"
-  },
-  {
-    "count": 14,
     "hostname": "f.ptcdn.info"
   },
   {
@@ -49434,10 +46770,6 @@
   {
     "count": 14,
     "hostname": "i.nhentai.net"
-  },
-  {
-    "count": 14,
-    "hostname": "kasetsartjournal.ku.ac.th"
   },
   {
     "count": 14,
@@ -49529,10 +46861,6 @@
   },
   {
     "count": 14,
-    "hostname": "std.regis.ku.ac.th"
-  },
-  {
-    "count": 14,
     "hostname": "sucai.mobile.dl.meitu.com"
   },
   {
@@ -49542,10 +46870,6 @@
   {
     "count": 14,
     "hostname": "t.co"
-  },
-  {
-    "count": 14,
-    "hostname": "train.eto.ku.ac.th"
   },
   {
     "count": 14,
@@ -49917,10 +47241,6 @@
   },
   {
     "count": 15,
-    "hostname": "admission.eng.ku.ac.th"
-  },
-  {
-    "count": 15,
     "hostname": "ad.mtburn.com"
   },
   {
@@ -49946,10 +47266,6 @@
   {
     "count": 15,
     "hostname": "behacdn.ksmobile.net"
-  },
-  {
-    "count": 15,
-    "hostname": "biochemistry.sci.ku.ac.th"
   },
   {
     "count": 15,
@@ -50017,15 +47333,7 @@
   },
   {
     "count": 15,
-    "hostname": "jindamanee.lib.ku.ac.th"
-  },
-  {
-    "count": 15,
     "hostname": "kanomjeeb.com"
-  },
-  {
-    "count": 15,
-    "hostname": "kasetsartfc.sp.ku.ac.th"
   },
   {
     "count": 15,
@@ -50169,10 +47477,6 @@
   },
   {
     "count": 15,
-    "hostname": "webportal.ku.ac.th"
-  },
-  {
-    "count": 15,
     "hostname": "wmdstat.dev-sanook.com"
   },
   {
@@ -50181,15 +47485,7 @@
   },
   {
     "count": 15,
-    "hostname": "wt.eng.ku.ac.th"
-  },
-  {
-    "count": 15,
     "hostname": "wu-calculator.apple.com"
-  },
-  {
-    "count": 15,
-    "hostname": "www.agr.ku.ac.th"
   },
   {
     "count": 15,
@@ -50601,19 +47897,11 @@
   },
   {
     "count": 16,
-    "hostname": "158.108.21.9"
-  },
-  {
-    "count": 16,
     "hostname": "1dc1p.siambit.me"
   },
   {
     "count": 16,
     "hostname": "ads2.contentabc.com"
-  },
-  {
-    "count": 16,
-    "hostname": "agkc.lib.ku.ac.th"
   },
   {
     "count": 16,
@@ -50837,15 +48125,7 @@
   },
   {
     "count": 16,
-    "hostname": "www.journal.eco.ku.ac.th"
-  },
-  {
-    "count": 16,
     "hostname": "www.kuteclub.net"
-  },
-  {
-    "count": 16,
-    "hostname": "www.lang.human.ku.ac.th"
   },
   {
     "count": 16,
@@ -50853,19 +48133,7 @@
   },
   {
     "count": 16,
-    "hostname": "www.safetybio.agri.kps.ku.ac.th"
-  },
-  {
-    "count": 16,
-    "hostname": "www.sci.ku.ac.th"
-  },
-  {
-    "count": 16,
     "hostname": "www.soccersuck.in.th"
-  },
-  {
-    "count": 16,
-    "hostname": "www.spsgames.kps.ku.ac.th"
   },
   {
     "count": 16,
@@ -51209,22 +48477,6 @@
   },
   {
     "count": 17,
-    "hostname": "reg1.src.ku.ac.th"
-  },
-  {
-    "count": 17,
-    "hostname": "reg4.src.ku.ac.th"
-  },
-  {
-    "count": 17,
-    "hostname": "sa.ku.ac.th"
-  },
-  {
-    "count": 17,
-    "hostname": "sci.ku.ac.th"
-  },
-  {
-    "count": 17,
     "hostname": "sstv.siamsport.co.th"
   },
   {
@@ -51417,14 +48669,6 @@
   },
   {
     "count": 18,
-    "hostname": "158.108.203.13"
-  },
-  {
-    "count": 18,
-    "hostname": "158.108.32.49"
-  },
-  {
-    "count": 18,
     "hostname": "77mleq3.club"
   },
   {
@@ -51434,10 +48678,6 @@
   {
     "count": 18,
     "hostname": "95.211.185.32"
-  },
-  {
-    "count": 18,
-    "hostname": "alldb.kps.ku.ac.th"
   },
   {
     "count": 18,
@@ -51509,10 +48749,6 @@
   },
   {
     "count": 18,
-    "hostname": "ithesis.grad.ku.ac.th"
-  },
-  {
-    "count": 18,
     "hostname": "kbd1.kpns.ijinshan.com"
   },
   {
@@ -51533,19 +48769,11 @@
   },
   {
     "count": 18,
-    "hostname": "office.csc.ku.ac.th"
-  },
-  {
-    "count": 18,
     "hostname": "p35-buy.itunes.apple.com"
   },
   {
     "count": 18,
     "hostname": "p39-ckdatabase.icloud.com"
-  },
-  {
-    "count": 18,
-    "hostname": "pikul.lib.ku.ac.th"
   },
   {
     "count": 18,
@@ -51562,10 +48790,6 @@
   {
     "count": 18,
     "hostname": "se2.itunes.apple.com"
-  },
-  {
-    "count": 18,
-    "hostname": "spsgames.kps.ku.ac.th"
   },
   {
     "count": 18,
@@ -51757,14 +48981,6 @@
   },
   {
     "count": 18,
-    "hostname": "www.vet.ku.ac.th"
-  },
-  {
-    "count": 18,
-    "hostname": "www.vettech.ku.ac.th"
-  },
-  {
-    "count": 18,
     "hostname": "www.vjav.com"
   },
   {
@@ -51921,10 +49137,6 @@
   },
   {
     "count": 19,
-    "hostname": "iad.intaff.ku.ac.th"
-  },
-  {
-    "count": 19,
     "hostname": "image-chat-en.shoppening.com"
   },
   {
@@ -51942,10 +49154,6 @@
   {
     "count": 19,
     "hostname": "mirror2.totbb.net"
-  },
-  {
-    "count": 19,
-    "hostname": "nisit.kasetsart.org"
   },
   {
     "count": 19,
@@ -51981,10 +49189,6 @@
   },
   {
     "count": 19,
-    "hostname": "www.anchan.lib.ku.ac.th"
-  },
-  {
-    "count": 19,
     "hostname": "www.at712.com"
   },
   {
@@ -51993,15 +49197,7 @@
   },
   {
     "count": 19,
-    "hostname": "www.eto.ku.ac.th"
-  },
-  {
-    "count": 19,
     "hostname": "www.jadjarn.com"
-  },
-  {
-    "count": 19,
-    "hostname": "www.me.eng.ku.ac.th"
   },
   {
     "count": 19,
@@ -52253,15 +49449,7 @@
   },
   {
     "count": 20,
-    "hostname": "genetics.sci.ku.ac.th"
-  },
-  {
-    "count": 20,
     "hostname": "hk.api.unipay.qq.com"
-  },
-  {
-    "count": 20,
-    "hostname": "ibic.lib.ku.ac.th"
   },
   {
     "count": 20,
@@ -52286,10 +49474,6 @@
   {
     "count": 20,
     "hostname": "p60-keyvalueservice.icloud.com"
-  },
-  {
-    "count": 20,
-    "hostname": "ppath.agr.ku.ac.th"
   },
   {
     "count": 20,
@@ -52329,19 +49513,11 @@
   },
   {
     "count": 20,
-    "hostname": "www.grad.eco.ku.ac.th"
-  },
-  {
-    "count": 20,
     "hostname": "www.myxolo.net:8080"
   },
   {
     "count": 20,
     "hostname": "www.one2car.com"
-  },
-  {
-    "count": 20,
-    "hostname": "www.person.ku.ac.th"
   },
   {
     "count": 20,
@@ -52525,23 +49701,11 @@
   },
   {
     "count": 21,
-    "hostname": "academic.kus.ku.ac.th"
-  },
-  {
-    "count": 21,
     "hostname": "ad-cpv.line.me"
   },
   {
     "count": 21,
     "hostname": "ad.turn.com"
-  },
-  {
-    "count": 21,
-    "hostname": "agri.kps.ku.ac.th"
-  },
-  {
-    "count": 21,
-    "hostname": "agron.agr.ku.ac.th"
   },
   {
     "count": 21,
@@ -52686,10 +49850,6 @@
   {
     "count": 21,
     "hostname": "www.dmm.co.jp"
-  },
-  {
-    "count": 21,
-    "hostname": "www.east.human.ku.ac.th"
   },
   {
     "count": 21,
@@ -52942,10 +50102,6 @@
   {
     "count": 22,
     "hostname": "b92.yahoo.co.jp"
-  },
-  {
-    "count": 22,
-    "hostname": "cab.kps.ku.ac.th"
   },
   {
     "count": 22,
@@ -53213,10 +50369,6 @@
   },
   {
     "count": 22,
-    "hostname": "www.y-mba.bus.ku.ac.th"
-  },
-  {
-    "count": 22,
     "hostname": "xn--0cae4bk5d.homeland4rent.com"
   },
   {
@@ -53289,14 +50441,6 @@
   },
   {
     "count": 23,
-    "hostname": "esdpsd.psd.kps.ku.ac.th"
-  },
-  {
-    "count": 23,
-    "hostname": "e-working.ocs.ku.ac.th"
-  },
-  {
-    "count": 23,
     "hostname": "gaijin.s-12.clients.cdnnow.ru"
   },
   {
@@ -53322,10 +50466,6 @@
   {
     "count": 23,
     "hostname": "p8801.popza88.com"
-  },
-  {
-    "count": 23,
-    "hostname": "pi.eng.src.ku.ac.th"
   },
   {
     "count": 23,
@@ -53366,18 +50506,6 @@
   {
     "count": 23,
     "hostname": "www.bmw.co.th"
-  },
-  {
-    "count": 23,
-    "hostname": "www.buddhism.rilc.ku.ac.th"
-  },
-  {
-    "count": 23,
-    "hostname": "www.interprogram.ku.ac.th"
-  },
-  {
-    "count": 23,
-    "hostname": "www.ku-ept.human.ku.ac.th"
   },
   {
     "count": 23,
@@ -53529,10 +50657,6 @@
   },
   {
     "count": 24,
-    "hostname": "158.108.68.27"
-  },
-  {
-    "count": 24,
     "hostname": "883s38865.cdnasiaclub.com"
   },
   {
@@ -53542,10 +50666,6 @@
   {
     "count": 24,
     "hostname": "a3-57.clients.cdn13.com"
-  },
-  {
-    "count": 24,
-    "hostname": "acct.bus.ku.ac.th"
   },
   {
     "count": 24,
@@ -53578,10 +50698,6 @@
   {
     "count": 24,
     "hostname": "exchange.adtrue.com"
-  },
-  {
-    "count": 24,
-    "hostname": "fse.csc.ku.ac.th"
   },
   {
     "count": 24,
@@ -54561,10 +51677,6 @@
   },
   {
     "count": 26,
-    "hostname": "chem.sci.ku.ac.th"
-  },
-  {
-    "count": 26,
     "hostname": "cloud.mobilethai.net"
   },
   {
@@ -54670,14 +51782,6 @@
   {
     "count": 26,
     "hostname": "www.adnetworkperformance.com"
-  },
-  {
-    "count": 26,
-    "hostname": "www.coop.ku.ac.th"
-  },
-  {
-    "count": 26,
-    "hostname": "www.csc.ku.ac.th"
   },
   {
     "count": 26,
@@ -54901,10 +52005,6 @@
   },
   {
     "count": 27,
-    "hostname": "biochem.flas.kps.ku.ac.th"
-  },
-  {
-    "count": 27,
     "hostname": "bs.serving-sys.com"
   },
   {
@@ -54942,10 +52042,6 @@
   {
     "count": 27,
     "hostname": "dt.adsafeprotected.com"
-  },
-  {
-    "count": 27,
-    "hostname": "flas.kps.ku.ac.th"
   },
   {
     "count": 27,
@@ -54994,10 +52090,6 @@
   {
     "count": 27,
     "hostname": "tv2-pt.line-apps.com"
-  },
-  {
-    "count": 27,
-    "hostname": "www2.rdi.ku.ac.th"
   },
   {
     "count": 27,
@@ -55153,10 +52245,6 @@
   },
   {
     "count": 28,
-    "hostname": "158.108.104.25"
-  },
-  {
-    "count": 28,
     "hostname": "block.dropbox.com"
   },
   {
@@ -55210,10 +52298,6 @@
   {
     "count": 28,
     "hostname": "videos2.xvideos.com"
-  },
-  {
-    "count": 28,
-    "hostname": "www.academicservice.human.ku.ac.th"
   },
   {
     "count": 28,
@@ -55317,10 +52401,6 @@
   },
   {
     "count": 29,
-    "hostname": "ase.eng.ku.ac.th"
-  },
-  {
-    "count": 29,
     "hostname": "asrvvv-a.akamaihd.net"
   },
   {
@@ -55342,10 +52422,6 @@
   {
     "count": 29,
     "hostname": "cdn.tunwalai.com"
-  },
-  {
-    "count": 29,
-    "hostname": "edu.kps.ku.ac.th"
   },
   {
     "count": 29,
@@ -55421,10 +52497,6 @@
   },
   {
     "count": 30,
-    "hostname": "158.108.104.12"
-  },
-  {
-    "count": 30,
     "hostname": "aktrack.pubmatic.com"
   },
   {
@@ -55441,23 +52513,11 @@
   },
   {
     "count": 30,
-    "hostname": "calendar.ku.ac.th"
-  },
-  {
-    "count": 30,
-    "hostname": "clgc.agri.kps.ku.ac.th"
-  },
-  {
-    "count": 30,
     "hostname": "comm.api.vivoglobal.com"
   },
   {
     "count": 30,
     "hostname": "dc1.networkbench.com"
-  },
-  {
-    "count": 30,
-    "hostname": "eduserv.ku.ac.th"
   },
   {
     "count": 30,
@@ -55474,10 +52534,6 @@
   {
     "count": 30,
     "hostname": "ms.cmcm.com"
-  },
-  {
-    "count": 30,
-    "hostname": "ms.src.ku.ac.th"
   },
   {
     "count": 30,
@@ -55510,10 +52566,6 @@
   {
     "count": 30,
     "hostname": "www.download.windowsupdate.com"
-  },
-  {
-    "count": 30,
-    "hostname": "www.eeba.eco.ku.ac.th"
   },
   {
     "count": 30,
@@ -55621,10 +52673,6 @@
   },
   {
     "count": 31,
-    "hostname": "halalinfo.ifrpd.ku.ac.th"
-  },
-  {
-    "count": 31,
     "hostname": "hits.truehits.in.th"
   },
   {
@@ -55658,10 +52706,6 @@
   {
     "count": 31,
     "hostname": "tv.line.me"
-  },
-  {
-    "count": 31,
-    "hostname": "www.forest.ku.ac.th"
   },
   {
     "count": 31,
@@ -56049,19 +53093,11 @@
   },
   {
     "count": 34,
-    "hostname": "vetnp.vet.ku.ac.th"
-  },
-  {
-    "count": 34,
     "hostname": "www.3star88.net"
   },
   {
     "count": 34,
     "hostname": "www.carnivalbkk.com"
-  },
-  {
-    "count": 34,
-    "hostname": "www.rdi.ku.ac.th"
   },
   {
     "count": 34,
@@ -56137,10 +53173,6 @@
   },
   {
     "count": 35,
-    "hostname": "www.sci.ku.ac.th:8000"
-  },
-  {
-    "count": 35,
     "hostname": "www.techincar.com"
   },
   {
@@ -56189,15 +53221,7 @@
   },
   {
     "count": 36,
-    "hostname": "edu.ku.ac.th"
-  },
-  {
-    "count": 36,
     "hostname": "idsync.rlcdn.com"
-  },
-  {
-    "count": 36,
-    "hostname": "iml.cpe.ku.ac.th"
   },
   {
     "count": 36,
@@ -56265,10 +53289,6 @@
   },
   {
     "count": 37,
-    "hostname": "agron.agri.kps.ku.ac.th"
-  },
-  {
-    "count": 37,
     "hostname": "ajax.googleapis.com"
   },
   {
@@ -56282,10 +53302,6 @@
   {
     "count": 37,
     "hostname": "fp1.fsanook.com"
-  },
-  {
-    "count": 37,
-    "hostname": "lib.ku.ac.th"
   },
   {
     "count": 37,
@@ -56377,15 +53393,7 @@
   },
   {
     "count": 38,
-    "hostname": "www.corsat.agr.ku.ac.th"
-  },
-  {
-    "count": 38,
     "hostname": "www.free-scores.com"
-  },
-  {
-    "count": 38,
-    "hostname": "www.human.ku.ac.th"
   },
   {
     "count": 38,
@@ -56453,10 +53461,6 @@
   },
   {
     "count": 39,
-    "hostname": "kulc.lib.ku.ac.th"
-  },
-  {
-    "count": 39,
     "hostname": "pix04.revsci.net"
   },
   {
@@ -56510,10 +53514,6 @@
   {
     "count": 40,
     "hostname": "elb-p-dms-dls-uw1-737189181.us-west-1.elb.amazonaws.com"
-  },
-  {
-    "count": 40,
-    "hostname": "finance.ku.ac.th"
   },
   {
     "count": 40,
@@ -56717,10 +53717,6 @@
   },
   {
     "count": 43,
-    "hostname": "e-photopics.eng.ku.ac.th"
-  },
-  {
-    "count": 43,
     "hostname": "img-egc.xvideos.com"
   },
   {
@@ -56754,10 +53750,6 @@
   {
     "count": 43,
     "hostname": "sync.fout.jp"
-  },
-  {
-    "count": 43,
-    "hostname": "vth.kps.ku.ac.th"
   },
   {
     "count": 43,
@@ -56897,10 +53889,6 @@
   },
   {
     "count": 45,
-    "hostname": "www.kus.kps.ku.ac.th"
-  },
-  {
-    "count": 45,
     "hostname": "www.priceza.com"
   },
   {
@@ -56930,10 +53918,6 @@
   {
     "count": 46,
     "hostname": "master6.teamviewer.com"
-  },
-  {
-    "count": 46,
-    "hostname": "music.human.ku.ac.th"
   },
   {
     "count": 46,
@@ -57025,14 +54009,6 @@
   },
   {
     "count": 48,
-    "hostname": "ifrpd.ku.ac.th"
-  },
-  {
-    "count": 48,
-    "hostname": "intanin.lib.ku.ac.th"
-  },
-  {
-    "count": 48,
     "hostname": "master8.teamviewer.com"
   },
   {
@@ -57113,10 +54089,6 @@
   },
   {
     "count": 50,
-    "hostname": "anchan.lib.ku.ac.th"
-  },
-  {
-    "count": 50,
     "hostname": "content.xvideos.com"
   },
   {
@@ -57146,10 +54118,6 @@
   {
     "count": 50,
     "hostname": "scss-prod-an1-notif-7.adobesc.com"
-  },
-  {
-    "count": 50,
-    "hostname": "www.regweb.registrar.ku.ac.th"
   },
   {
     "count": 50,
@@ -57266,14 +54234,6 @@
   {
     "count": 52,
     "hostname": "xn--12cabup1ktah0b6c1c2a1n8d8atw.th"
-  },
-  {
-    "count": 53,
-    "hostname": "bus.ku.ac.th"
-  },
-  {
-    "count": 53,
-    "hostname": "ebook.lib.ku.ac.th"
   },
   {
     "count": 53,
@@ -57521,10 +54481,6 @@
   },
   {
     "count": 59,
-    "hostname": "web.ku.ac.th"
-  },
-  {
-    "count": 59,
     "hostname": "www.googletagmanager.com"
   },
   {
@@ -57689,14 +54645,6 @@
   },
   {
     "count": 64,
-    "hostname": "econ.eco.ku.ac.th"
-  },
-  {
-    "count": 64,
-    "hostname": "pirun.kps.ku.ac.th"
-  },
-  {
-    "count": 64,
     "hostname": "rt.gsspat.jp"
   },
   {
@@ -57765,10 +54713,6 @@
   },
   {
     "count": 67,
-    "hostname": "webmail.ku.ac.th"
-  },
-  {
-    "count": 67,
     "hostname": "www.nekopost.net"
   },
   {
@@ -57798,10 +54742,6 @@
   {
     "count": 69,
     "hostname": "cdn.x1cdn.com"
-  },
-  {
-    "count": 69,
-    "hostname": "cloudbox.ku.ac.th"
   },
   {
     "count": 69,
@@ -57849,15 +54789,7 @@
   },
   {
     "count": 70,
-    "hostname": "fin.bus.ku.ac.th"
-  },
-  {
-    "count": 70,
     "hostname": "imgg-cdn.mgid.com"
-  },
-  {
-    "count": 70,
-    "hostname": "ninekaset.kustaff.ku.ac.th"
   },
   {
     "count": 70,
@@ -57938,10 +54870,6 @@
   {
     "count": 72,
     "hostname": "pubads.g.doubleclick.net"
-  },
-  {
-    "count": 72,
-    "hostname": "sega05.arch.ku.ac.th"
   },
   {
     "count": 72,
@@ -58033,14 +54961,6 @@
   },
   {
     "count": 76,
-    "hostname": "www.becon.eco.ku.ac.th"
-  },
-  {
-    "count": 76,
-    "hostname": "www.kuer.edu.ku.ac.th"
-  },
-  {
-    "count": 76,
     "hostname": "www.nekopost.net:8080"
   },
   {
@@ -58057,19 +54977,7 @@
   },
   {
     "count": 77,
-    "hostname": "www.eng.ku.ac.th"
-  },
-  {
-    "count": 77,
     "hostname": "www.jokergameth.com"
-  },
-  {
-    "count": 77,
-    "hostname": "www.lib.ku.ac.th"
-  },
-  {
-    "count": 77,
-    "hostname": "www.src.ku.ac.th"
   },
   {
     "count": 78,
@@ -58285,10 +55193,6 @@
   },
   {
     "count": 87,
-    "hostname": "www.gerd.eng.ku.ac.th"
-  },
-  {
-    "count": 87,
     "hostname": "www.leonics-moc.com:30080"
   },
   {
@@ -58353,10 +55257,6 @@
   },
   {
     "count": 91,
-    "hostname": "dorm.admin.src.ku.ac.th"
-  },
-  {
-    "count": 91,
     "hostname": "images.gotinder.com"
   },
   {
@@ -58378,10 +55278,6 @@
   {
     "count": 92,
     "hostname": "connect.facebook.net"
-  },
-  {
-    "count": 92,
-    "hostname": "kps.ku.ac.th"
   },
   {
     "count": 92,
@@ -58409,15 +55305,11 @@
   },
   {
     "count": 94,
-    "hostname": "ku-press.ku.ac.th"
-  },
-  {
-    "count": 94,
     "hostname": "m.addthis.com"
   },
   {
     "count": 94,
-    "hostname": "www.vit.src.ku.ac.th"
+    "hostname": "www.msftncsi.com"
   },
   {
     "count": 95,
@@ -58442,18 +55334,6 @@
   {
     "count": 96,
     "hostname": "cdn.hdporn4.me"
-  },
-  {
-    "count": 96,
-    "hostname": "e-learning.csc.ku.ac.th"
-  },
-  {
-    "count": 96,
-    "hostname": "fpei.ku.ac.th"
-  },
-  {
-    "count": 96,
-    "hostname": "nontri.ku.ac.th"
   },
   {
     "count": 96,
@@ -58501,15 +55381,7 @@
   },
   {
     "count": 100,
-    "hostname": "www.agro.ku.ac.th"
-  },
-  {
-    "count": 100,
     "hostname": "www.myinwallpaper.com"
-  },
-  {
-    "count": 100,
-    "hostname": "www.re.kps.ku.ac.th"
   },
   {
     "count": 101,
@@ -58557,10 +55429,6 @@
   },
   {
     "count": 104,
-    "hostname": "eto.ku.ac.th"
-  },
-  {
-    "count": 104,
     "hostname": "ocsp.digicert.com"
   },
   {
@@ -58570,10 +55438,6 @@
   {
     "count": 104,
     "hostname": "res2.ddt.boomz.in.th"
-  },
-  {
-    "count": 104,
-    "hostname": "www.grad.ku.ac.th"
   },
   {
     "count": 105,
@@ -58594,10 +55458,6 @@
   {
     "count": 106,
     "hostname": "v2.xxx888porn.com"
-  },
-  {
-    "count": 106,
-    "hostname": "www.msftncsi.com"
   },
   {
     "count": 107,
@@ -58630,14 +55490,6 @@
   {
     "count": 111,
     "hostname": "samsung.com"
-  },
-  {
-    "count": 112,
-    "hostname": "course.ku.ac.th"
-  },
-  {
-    "count": 112,
-    "hostname": "grade-std.ku.ac.th"
   },
   {
     "count": 112,
@@ -58682,10 +55534,6 @@
   {
     "count": 116,
     "hostname": "page.ookbeecomics.com"
-  },
-  {
-    "count": 116,
-    "hostname": "std.eng.src.ku.ac.th"
   },
   {
     "count": 116,
@@ -58770,10 +55618,6 @@
   {
     "count": 125,
     "hostname": "master11.teamviewer.com"
-  },
-  {
-    "count": 126,
-    "hostname": "ag-ebook.lib.ku.ac.th"
   },
   {
     "count": 126,
@@ -58870,10 +55714,6 @@
   {
     "count": 138,
     "hostname": "quest2.ddt.boomz.in.th"
-  },
-  {
-    "count": 138,
-    "hostname": "www3.rdi.ku.ac.th"
   },
   {
     "count": 139,
@@ -58989,10 +55829,6 @@
   },
   {
     "count": 152,
-    "hostname": "kukr.lib.ku.ac.th"
-  },
-  {
-    "count": 152,
     "hostname": "mizuno.resultspage.com"
   },
   {
@@ -59026,10 +55862,6 @@
   {
     "count": 162,
     "hostname": "app.dek-d.com"
-  },
-  {
-    "count": 163,
-    "hostname": "csrs.ku.ac.th"
   },
   {
     "count": 163,
@@ -59070,10 +55902,6 @@
   {
     "count": 172,
     "hostname": "download.windowsupdate.com"
-  },
-  {
-    "count": 173,
-    "hostname": "theory.cpe.ku.ac.th"
   },
   {
     "count": 175,
@@ -59149,10 +55977,6 @@
   },
   {
     "count": 191,
-    "hostname": "cyberlab.lh1.ku.ac.th"
-  },
-  {
-    "count": 191,
     "hostname": "r4---sn-0opoxuui5pa5oq-c33z.googlevideo.com"
   },
   {
@@ -59174,10 +55998,6 @@
   {
     "count": 194,
     "hostname": "valve1001.steamcontent.com"
-  },
-  {
-    "count": 194,
-    "hostname": "zmirror.ipinw.biz"
   },
   {
     "count": 196,
@@ -59286,10 +56106,6 @@
   {
     "count": 220,
     "hostname": "www.ubonzoo.com"
-  },
-  {
-    "count": 222,
-    "hostname": "research.rdi.ku.ac.th"
   },
   {
     "count": 222,
@@ -59636,10 +56452,6 @@
     "hostname": "www.facebook.com"
   },
   {
-    "count": 406,
-    "hostname": "www.cab.kps.ku.ac.th"
-  },
-  {
     "count": 408,
     "hostname": "cs.gssprt.jp"
   },
@@ -59658,10 +56470,6 @@
   {
     "count": 424,
     "hostname": "video.twimg.com"
-  },
-  {
-    "count": 432,
-    "hostname": "pirun.ku.ac.th"
   },
   {
     "count": 442,
@@ -59684,10 +56492,6 @@
     "hostname": "valve1003.steamcontent.com"
   },
   {
-    "count": 461,
-    "hostname": "agkb.lib.ku.ac.th"
-  },
-  {
     "count": 462,
     "hostname": "sg-nvapis.line.me"
   },
@@ -59706,10 +56510,6 @@
   {
     "count": 474,
     "hostname": "zhxin2.xfplay.com:9080"
-  },
-  {
-    "count": 479,
-    "hostname": "dna.kps.ku.ac.th"
   },
   {
     "count": 481,
@@ -59792,10 +56592,6 @@
     "hostname": "muangsiri.com"
   },
   {
-    "count": 772,
-    "hostname": "doras.psd.ku.ac.th"
-  },
-  {
     "count": 784,
     "hostname": "pingma.qq.com:80"
   },
@@ -59824,10 +56620,6 @@
     "hostname": "wsxc123.cc"
   },
   {
-    "count": 946,
-    "hostname": "vet.ku.ac.th"
-  },
-  {
     "count": 964,
     "hostname": "goappdl.goforandroid.com"
   },
@@ -59838,10 +56630,6 @@
   {
     "count": 984,
     "hostname": "ctldl.windowsupdate.com"
-  },
-  {
-    "count": 1051,
-    "hostname": "www.ku.ac.th"
   },
   {
     "count": 1097,
@@ -59920,10 +56708,6 @@
     "hostname": "ads.adaptv.advertising.com"
   },
   {
-    "count": 2716,
-    "hostname": "158.108.110.29"
-  },
-  {
     "count": 2784,
     "hostname": "licensing.mp.microsoft.com"
   },
@@ -59932,8 +56716,8 @@
     "hostname": "www.toptools100.com"
   },
   {
-    "count": 3810,
-    "hostname": "mirror1.ku.ac.th"
+    "count": 3789,
+    "hostname": "-"
   },
   {
     "count": 3832,
