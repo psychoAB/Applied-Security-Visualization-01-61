@@ -14,7 +14,7 @@ $.getJSON("src/json/requests_per_minute.json", function(json) {
         },
         tooltip : {
             trigger: 'item',
-            formatter: "{a} <br/>{b} : {c}"
+            formatter: "{b}<br/>Requests : {c}"
         },
         xAxis: {
             type: 'category',
