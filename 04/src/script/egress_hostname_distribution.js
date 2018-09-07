@@ -3,12 +3,12 @@ var chart = echarts.init(dom);
 
 chart.showLoading();
 
-$.getJSON("src/json/users_requests_percentage.json", function(json) {
+$.getJSON("src/json/egress_hostname_distribution.json", function(json) {
     chart.hideLoading();
 
     chart.setOption(option = {
         title : {
-            text: '3.1.2 Requests per minute',
+            text: '3.3 Egress hostname distribution',
             x:'center'
         },
         tooltip : {
@@ -20,7 +20,7 @@ $.getJSON("src/json/users_requests_percentage.json", function(json) {
                 type: 'treemap',
                 data: json.map(function (record) {
                     return {
-                        name: record.user,
+                        name: record.hostname,
                         value: record.count
                     };
                 }),

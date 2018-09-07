@@ -3,7 +3,6 @@ var chart = echarts.init(dom);
 
 chart.showLoading();
 
-
 $.getJSON("src/json/requests_per_minute.json", function(json) {
     chart.hideLoading();
 

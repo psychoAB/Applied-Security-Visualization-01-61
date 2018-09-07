@@ -3,7 +3,6 @@ var chart = echarts.init(dom);
 
 chart.showLoading();
 
-
 $.getJSON("src/json/topmost_user.json", function(json) {
     chart.hideLoading();
 
